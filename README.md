@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MONSTER one-word domains still available to buy.
 
-This dataset contains 4,143 .MONSTER one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,137 .MONSTER one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MONSTER one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=monster-oneword-domains&utm_content=description.top) (4,153) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.MONSTER one word doma
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.monster      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.monster      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.monster  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.monster      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.monster  | available | 58       | 7%     | 9      |           |         |         |
