@@ -78,7 +78,7 @@ print(df.head())
 | live.monster       | premium   | $625      | $20.99        | 108            | 56     | 4      | name.com        |
 | nationwide.monster | available | $1.99     | $20.99        | 76             | 66     | 10     | name.com        |
 | account.monster    | resell    | $19.98    | —             | 98             | 34     | 7      | Spaceship, Inc. |
-| fast.monster       | premium   | $625      | $20.99        | 82             | 53     | 4      | name.com        |
+| fast.monster       | premium   | $625      | $20.99        | 82             | 52     | 4      | name.com        |
 | seventeen.monster  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com        |
 | ten.monster        | resell    | $1.99     | $20.99        | 88             | 31     | 3      | Spaceship, Inc. |
 | one.monster        | premium   | $625      | $20.99        | 132            | 50     | 3      | name.com        |
