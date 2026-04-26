@@ -1,22 +1,22 @@
-# Available .MONSTER One-Word Domains (8,467)
+# Available .MONSTER One-Word Domains (10,910)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C468%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C467%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C910%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .monster one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .monster one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,910 domains** on the canonical page below.
 
-**Public extract:** 8,468 rows · **Live catalog:** 8,467 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,910 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/monster`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MONSTER one-word doma
 
 ### Files
 
-- `monster.csv` — public CSV extract (8,468 rows)
-- `monster.json` — public JSON extract (8,468 rows)
+- `monster.csv` — public CSV extract (1,000 rows)
+- `monster.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| waste.monster      | available | $19.98    | —             | 104            | 98     | 5      | namecheap       |
-| genius.monster     | resell    | $1.99     | $20.99        | 98             | 45     | 6      | Spaceship, Inc. |
-| power.monster      | premium   | $650      | $15.73        | 98             | 62     | 5      | namecheap       |
-| affirm.monster     | available | $1.99     | —             | 80             | 81     | 6      | name.com        |
-| elite.monster      | resell    | $1.99     | $20.99        | 90             | 43     | 5      | Spaceship, Inc. |
-| pay.monster        | premium   | $625      | —             | 84             | 60     | 3      | name.com        |
-| nike.monster       | available | $1.99     | —             | 78             | 80     | 4      | name.com        |
-| forward.monster    | resell    | $1.99     | $20.99        | 68             | 39     | 7      | Spaceship, Inc. |
-| ace.monster        | premium   | $625      | $20.99        | 88             | 57     | 3      | name.com        |
-| adam.monster       | available | $1.99     | —             | 66             | 70     | 4      | name.com        |
-| sharp.monster      | resell    | $1.99     | $20.99        | 84             | 36     | 5      | Spaceship, Inc. |
-| live.monster       | premium   | $625      | $20.99        | 108            | 56     | 4      | name.com        |
-| nationwide.monster | available | $1.99     | $20.99        | 76             | 66     | 10     | name.com        |
-| account.monster    | resell    | $19.98    | —             | 98             | 34     | 7      | Spaceship, Inc. |
-| fast.monster       | premium   | $625      | $20.99        | 82             | 52     | 4      | name.com        |
-| seventeen.monster  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com        |
-| ten.monster        | resell    | $1.99     | $20.99        | 88             | 31     | 3      | Spaceship, Inc. |
-| one.monster        | premium   | $625      | $20.99        | 132            | 50     | 3      | name.com        |
-| athletics.monster  | available | $19.98    | —             | 69             | 52     | 9      | namecheap       |
-| pack.monster       | resell    | $1.99     | $20.99        | 100            | 30     | 4      | Spaceship, Inc. |
+| domain               | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
+| -------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
+| winners.monster      | available | $1.99      | —             | 60             | 81     | 7      | name.com        |
+| mac.monster          | resell    | —          | —             | 84             | 83     | 3      | Spaceship, Inc. |
+| events.monster       | premium   | $625       | —             | 68             | 37     | 6      | name.com        |
+| newlook.monster      | available | $1.99      | —             | 66             | 80     | 8      | name.com        |
+| robots.monster       | resell    | —          | —             | 62             | 47     | 6      | Spaceship, Inc. |
+| slot.monster         | premium   | $10,527.84 | —             | 72             | 33     | 4      | Dynadot LLC     |
+| donuts.monster       | available | $1.99      | —             | 54             | 62     | 6      | name.com        |
+| coins.monster        | resell    | —          | —             | 56             | 41     | 5      | Dynadot LLC     |
+| Cats.monster         | premium   | $280       | $16.94        | 59             | 33     | 4      | namecheap       |
+| travelers.monster    | available | $1.99      | —             | 58             | 61     | 9      | name.com        |
+| animal.monster       | resell    | —          | —             | 82             | 33     | 6      | Go Daddy, LLC   |
+| maps.monster         | premium   | $625       | —             | 56             | 31     | 4      | name.com        |
+| RedSox.monster       | available | $19.98     | —             | 72             | 60     | 7      | namecheap       |
+| north.monster        | resell    | —          | —             | 63             | 33     | 5      | Go Daddy, LLC   |
+| solutions.monster    | premium   | $625       | —             | 56             | 31     | 9      | name.com        |
+| matcha.monster       | available | $1.99      | —             | 86             | 39     | 6      | name.com        |
+| embrace.monster      | resell    | —          | —             | 88             | 26     | 7      | Dynadot LLC     |
+| photos.monster       | premium   | $250       | —             | 54             | 28     | 6      | name.com        |
+| neuroscience.monster | available | $1.99      | —             | 80             | 37     | 12     | name.com        |
+| delight.monster      | resell    | —          | —             | 86             | 25     | 7      | Go Daddy, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,468-row public sample | 8,467 live domains                               |
+| 1,000-row public sample | 10,910 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
