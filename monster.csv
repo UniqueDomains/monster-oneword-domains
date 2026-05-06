@@ -56,6 +56,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04b1ef4b-75e7-44f4-b628-6f86f7edade2,explains.monster,available,1.99,,50,4,8,name.com,,
 04b266da-8c94-4c94-9ab2-237dcc4744e3,getoneselftogether.monster,available,1.99,,49,1,20,name.com,,
 04c3188c-86fc-45fe-a22b-afd4496ac342,sedated.monster,available,1.99,,43,2,7,name.com,,
+04efaa57-a388-4927-a923-7746fa052d60,bomb.monster,resell,,,66,20,4,"Spaceship, Inc.",01/05/2026 21:24,01/05/2027 23:59
 051ef76e-dde8-47b3-8200-282f5ec2d0ac,makeupfriend.monster,available,1.99,,60,1,14,name.com,,
 05517a79-e119-44d0-be1f-5b1c83a45101,sparklingwine.monster,available,1.99,,69,4,14,name.com,,
 055368a1-53ad-4601-940a-ded894e938c0,cutthrough.monster,available,1.99,,74,6,11,name.com,,
@@ -281,7 +282,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1943073e-8f31-482c-9a64-b9e3598daa43,makenoise.monster,available,1.99,,78,5,10,name.com,,
 1956bf52-b536-4d02-b117-48087726c30f,praises.monster,available,1.99,,56,3,7,name.com,,
 19764626-477c-496f-bb0e-ce0bb58d7da3,tablets.monster,available,1.99,,68,11,7,name.com,,
-19adffbe-f632-4edd-bb45-1d9fcd972763,delight.monster,resell,,,86,25,7,"Go Daddy, LLC",28/01/2026 02:59,28/01/2027 23:59
+19adffbe-f632-4edd-bb45-1d9fcd972763,delight.monster,resell,,,86,23,7,"Go Daddy, LLC",28/01/2026 02:59,28/01/2027 23:59
 1a1c3505-7d97-4af8-b48d-1807add9d033,pianos.monster,available,1.99,,58,11,6,name.com,,
 1a215c32-6aff-408d-9b80-e95979edd868,contains.monster,available,1.99,,54,4,8,name.com,,
 1a25435f-d8a2-4dfb-9739-70c6cbb5758c,prayers.monster,available,1.99,,62,11,7,name.com,,
@@ -294,7 +295,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1ac650af-f51d-4d1a-8e5e-7261d112ac19,gototherestroom.monster,available,1.99,,56,1,18,name.com,,
 1ad0c498-1b37-4955-93e0-8b2d57ccbfcf,goingaway.monster,available,1.99,,54,1,10,name.com,,
 1ae5e0b3-7e59-4a9f-8a73-09e7d52fa43d,comeonstrong.monster,available,1.99,,66,2,14,name.com,,
-1af49958-61f3-4f6a-9ff9-67d9a30d4287,sensor.monster,resell,,,72,21,6,"Go Daddy, LLC",28/01/2026 02:59,28/01/2027 23:59
+1af49958-61f3-4f6a-9ff9-67d9a30d4287,sensor.monster,resell,,,72,22,6,"Go Daddy, LLC",28/01/2026 02:59,28/01/2027 23:59
 1af5fd2d-672c-4c3b-92e5-669cc2b90897,letoneoff.monster,available,1.99,,77,1,11,name.com,,
 1b3d94ec-8e87-47cc-94bc-430777d4bb3c,eachtotheirown.monster,available,1.99,,46,1,17,name.com,,
 1ba8251f-98bf-417a-aca9-5afcdb6fd894,takeout.monster,available,1.99,,75,16,8,name.com,,
@@ -441,7 +442,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27fa2a8a-5595-40ce-88ff-05b20f44b9bf,aquestionof.monster,available,1.99,,52,1,13,name.com,,
 2811e9bd-94ef-42f5-8495-5c95f0476d38,macandcheese.monster,available,1.99,,72,4,14,name.com,,
 2817badd-d5eb-43a0-8f66-cf1a7eeb88b7,JusticeSociety.monster,available,19.98,,48,1,15,namecheap,,
-28279cf1-0ecb-4a8f-9f2f-66e949e131df,embrace.monster,resell,,,88,26,7,Dynadot LLC,29/10/2025 15:54,29/10/2026 23:59
+28279cf1-0ecb-4a8f-9f2f-66e949e131df,embrace.monster,resell,,,88,25,7,Dynadot LLC,29/10/2025 15:54,29/10/2026 23:59
 286ed44e-2a30-4e8a-813e-a681ca71c863,merrygorounds.monster,available,1.99,,54,0,15,name.com,,
 28a5cea8-98ad-418a-a685-8e7abf68d9f4,exchanges.monster,available,1.99,,50,11,9,name.com,,
 28b16d0c-84ca-4fe7-9d40-dab58883a028,fundamentalscience.monster,available,1.99,,66,2,19,name.com,,
@@ -464,6 +465,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a4a0220-5bee-4e8e-95fc-47c71708390c,fittoaT.monster,available,19.98,,64,1,10,namecheap,,
 2a76bd0b-724f-484c-99de-5c9101594602,keepquiet.monster,available,1.99,,74,1,10,name.com,,
 2a8d7050-0266-4118-8539-6a6e053eab73,hovers.monster,available,1.99,,56,3,6,name.com,,
+2a8ff0fc-0b9b-4788-b882-7f4558cef362,limit.monster,premium,,,76,20,5,,,
 2acb5848-7359-4816-a83a-343db12b43b8,toured.monster,available,1.99,,52,3,6,name.com,,
 2af9d5a7-eacb-4874-a0e1-16492539955a,costprice.monster,available,1.99,,70,4,10,name.com,,
 2b1a26c3-04c0-4c15-8e36-c56c1f123f23,seemlike.monster,available,1.99,,54,0,9,name.com,,
@@ -532,6 +534,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 302826a9-12e9-48ff-bcb9-86f370cc02e0,letoneselfgo.monster,available,1.99,,72,0,14,name.com,,
 306e7c80-f70e-45d3-81aa-c4635116e31a,prettier.monster,available,1.99,,62,5,8,name.com,,
 307e4d09-f49e-4dd5-920d-e3e19bffed27,rests.monster,available,1.99,,52,5,5,name.com,,
+308bd96e-c471-4a97-bbc6-622498b6b101,coconut.monster,resell,,,78,27,7,"GMO Internet Group, Inc. d/b/a Onamae.com",03/10/2025 09:21,03/10/2026 23:59
 30954032-00f0-4f0f-b797-ac55833cf840,swimsuits.monster,available,1.99,,62,5,9,name.com,,
 30ff2cef-8251-4315-98ae-d195e06a0dc7,sexualassault.monster,available,1.99,,43,3,14,name.com,,
 3111fc8b-4bb1-46a3-a6a2-9774bc83aa95,lookingforwardto.monster,available,1.99,,54,2,18,name.com,,
@@ -564,6 +567,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 335719f7-e90e-4486-9db1-2abe9c52611a,pairofshears.monster,available,1.99,,59,1,14,name.com,,
 33612c9e-217a-496e-9e87-09ff061d640d,endconsumer.monster,available,1.99,,68,1,12,name.com,,
 3365a683-1769-444f-99f6-2b726bfe24b2,mountaindew.monster,available,1.99,,74,7,12,name.com,,
+338341bf-fcc5-495d-8723-92ea2e729afa,corona.monster,premium,,,70,54,6,,,
 338f626f-3316-4db1-a532-dfba92c6bf63,believes.monster,available,1.99,,64,4,8,name.com,,
 3395b018-eaec-4d24-bcd2-e44ab190cbf2,bloodpressuregauge.monster,available,1.99,,48,1,20,name.com,,
 33abccd4-9d19-48f4-a35c-f54be3de52ee,alcoholfree.monster,available,1.99,,70,6,12,name.com,,
@@ -915,7 +919,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 545bdae0-0e58-408d-8907-0a1e6f0e0c53,flaxcotton.monster,available,1.99,,56,0,11,name.com,,
 5468c0be-ae70-4a6d-b876-4a1d81e052db,diehards.monster,available,1.99,,48,3,8,name.com,,
 547dbeb3-b6b1-4269-809c-11f2dccbd8c6,cents.monster,available,1.99,,56,9,5,name.com,,
-548773c3-42ba-445b-b01e-fcec1ee976ea,bundle.monster,resell,,,76,24,6,Namecheap,09/09/2025 11:13,09/09/2026 23:59
+548773c3-42ba-445b-b01e-fcec1ee976ea,bundle.monster,resell,,,76,23,6,Namecheap,09/09/2025 11:13,09/09/2026 23:59
 54b75df1-daa5-42b6-810c-9356478bc613,rioted.monster,available,1.99,,44,1,6,name.com,,
 54cf0d71-0823-4ae1-98a9-854046511b99,winners.monster,available,1.99,,60,81,7,name.com,,
 54df04b9-07a5-4461-a223-51bf0ad133cc,CountyofQueens.monster,available,19.98,,44,1,16,namecheap,,
@@ -943,6 +947,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5636c022-7af2-4b21-93de-6b78871856e4,packingtape.monster,available,1.99,,70,2,12,name.com,,
 563f127e-728c-47b9-bff7-7460e4a38ae8,pennies.monster,available,1.99,,56,6,7,name.com,,
 563fe2b9-c52e-44a7-8e05-60a55aeaf261,stepaside.monster,available,1.99,,74,2,10,name.com,,
+564499a8-9fad-4b0a-a50b-ebce93985cac,egg.monster,resell,,,74,31,3,"GMO Internet Group, Inc. d/b/a Onamae.com",05/10/2025 12:40,05/10/2026 23:59
 5644bbfc-73f0-4ea0-ab82-f6993b58d517,receives.monster,available,1.99,,52,3,8,name.com,,
 56cbdeb9-2ded-400e-88ab-a0b56a3eb5f9,fasttimes.monster,available,1.99,,80,3,10,name.com,,
 56fe1656-ca2a-4068-9d09-4ebe5ad6d11d,screenshots.monster,available,1.99,,49,9,11,name.com,,
@@ -994,8 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ac339fc-52ea-4f44-8d9e-eab20266a20a,teenyweeny.monster,available,1.99,,78,2,11,name.com,,
 5ac784d7-dac4-4b41-be87-3e095917a33b,totals.monster,available,1.99,,56,6,6,name.com,,
 5ac8d83e-6ccb-4ceb-b2ed-c51ab82ad491,coffeemaking.monster,available,1.99,,72,2,13,name.com,,
-5ad09bb9-abdd-4048-a953-933f8c2d86b7,Ihaveaquestion.monster,available,19.98,,50,2,17,namecheap,,
-5ad63c39-ed04-4eec-bde5-aac7bb42869d,fitlikeaglove.monster,available,1.99,,76,1,16,name.com,,
-5b0c596d-3aca-4653-86a3-d36bda6bf17f,goinon.monster,available,1.99,,74,2,8,name.com,,
-5b1b7c95-1718-49d5-ba35-c234d88a8bf2,paintpot.monster,available,1.99,,72,2,9,name.com,,
-5b430a46-0596-44d6-84ce-99f1c25d67ce,coffeemakers.monster,available,1.99,,62,3,12,name.com,,
