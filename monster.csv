@@ -847,7 +847,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4d61cfb0-9bda-4082-ab9c-0ca96a9404ce,organizing.monster,available,1.99,,76,12,10,name.com,,
 4d80be7e-8dc0-465c-a0b6-5ea6bae54688,killed.monster,available,1.99,,56,5,6,name.com,,
 4d87366e-8b5c-417d-b2ee-b9d784b5b9c7,dangers.monster,available,1.99,,46,6,7,name.com,,
-4da170ba-81d1-4df8-8eb2-9666d597138a,mac.monster,resell,,,84,83,3,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
+4da170ba-81d1-4df8-8eb2-9666d597138a,mac.monster,resell,,,84,82,3,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
 4da9319c-c2e2-4267-8892-fe8c3a0151a0,flipped.monster,available,1.99,,52,12,7,name.com,,
 4dad4ec1-df26-46bc-b4f6-787cce1ab98a,photos.monster,premium,250,,54,28,6,name.com,,
 4dade565-3f23-44cb-90c6-7653906f3650,visitors.monster,available,1.99,,62,10,8,name.com,,
