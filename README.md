@@ -76,10 +76,10 @@ print(df.head())
 | playon.monster  | available | $1.99      | —             | 80             | 14     | 7      | name.com        |
 | pierogi.monster | available | $1.99      | —             | 82             | 7      | 7      | name.com        |
 | leaveon.monster | available | $1.99      | —             | 80             | 1      | 8      | name.com        |
-| winners.monster | available | $1.99      | —             | 60             | 81     | 7      | name.com        |
+| newlook.monster | available | $1.99      | —             | 66             | 81     | 8      | name.com        |
 | mac.monster     | resell    | —          | —             | 84             | 82     | 3      | Spaceship, Inc. |
 | events.monster  | premium   | $625       | —             | 68             | 37     | 6      | name.com        |
-| newlook.monster | available | $1.99      | —             | 66             | 80     | 8      | name.com        |
+| winners.monster | available | $1.99      | —             | 60             | 81     | 7      | name.com        |
 | robots.monster  | resell    | —          | —             | 62             | 47     | 6      | Spaceship, Inc. |
 | slot.monster    | premium   | $10,527.84 | —             | 72             | 33     | 4      | Dynadot LLC     |
 | donuts.monster  | available | $1.99      | —             | 54             | 62     | 6      | name.com        |
