@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .monster one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $20.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/monster`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | ladies.monster  | available | $1.99      | —             | 80             | 17     | 6      | name.com        |
 | forces.monster  | available | $1.99      | —             | 82             | 12     | 6      | name.com        |
 | matcha.monster  | available | $1.99      | —             | 86             | 39     | 6      | name.com        |
-| lyrics.monster  | available | $1.99      | —             | 90             | 21     | 6      | name.com        |
+| lyrics.monster  | available | $1.99      | —             | 90             | 20     | 6      | name.com        |
 | useit.monster   | available | $1.99      | —             | 94             | 7      | 6      | name.com        |
 | dogsit.monster  | available | $1.99      | —             | 96             | 2      | 6      | name.com        |
 | gearup.monster  | available | $1.99      | —             | 80             | 16     | 7      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
