@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .monster one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,404 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $20.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $23.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/monster`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/monster`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MONSTER one-word doma
 
 ### Files
 
-- `monster.csv` — public CSV extract (1,000 rows)
-- `monster.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `monster.csv`, public CSV extract (1,000 rows)
+- `monster.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.monster    | available | $19.98     | —             | 80             | 5      | 5      | namecheap       |
-| facts.monster   | available | $1.99      | —             | 88             | 25     | 5      | name.com        |
-| ladies.monster  | available | $1.99      | —             | 80             | 17     | 6      | name.com        |
-| forces.monster  | available | $1.99      | —             | 82             | 12     | 6      | name.com        |
-| matcha.monster  | available | $1.99      | —             | 86             | 39     | 6      | name.com        |
-| lyrics.monster  | available | $1.99      | —             | 90             | 20     | 6      | name.com        |
-| useit.monster   | available | $1.99      | —             | 94             | 7      | 6      | name.com        |
-| dogsit.monster  | available | $1.99      | —             | 96             | 2      | 6      | name.com        |
-| gearup.monster  | available | $1.99      | —             | 80             | 16     | 7      | name.com        |
-| playon.monster  | available | $1.99      | —             | 80             | 14     | 7      | name.com        |
-| pierogi.monster | available | $1.99      | —             | 82             | 7      | 7      | name.com        |
-| leaveon.monster | available | $1.99      | —             | 80             | 1      | 8      | name.com        |
-| newlook.monster | available | $1.99      | —             | 66             | 81     | 8      | name.com        |
-| mac.monster     | resell    | —          | —             | 84             | 82     | 3      | Spaceship, Inc. |
-| events.monster  | premium   | $625       | —             | 68             | 37     | 6      | name.com        |
-| winners.monster | available | $1.99      | —             | 60             | 81     | 7      | name.com        |
-| robots.monster  | resell    | —          | —             | 62             | 47     | 6      | Spaceship, Inc. |
-| slot.monster    | premium   | $10,527.84 | —             | 72             | 33     | 4      | Dynadot LLC     |
-| donuts.monster  | available | $1.99      | —             | 54             | 62     | 6      | name.com        |
-| coins.monster   | resell    | —          | —             | 56             | 41     | 5      | Dynadot LLC     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bae.monster    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo        |
+| micro.monster  | resell    | $5,921.32 | —             | medium         | medium | 5      | Spaceship, Inc. |
+| bed.monster    | premium   | $242      | $14.28        | high           | low    | 3      | namesilo        |
+| bce.monster    | available | $1.99     | $15.75        | medium         | low    | 3      | namesilo        |
+| fabric.monster | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc. |
+| fit.monster    | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| cup.monster    | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| senior.monster | resell    | $1.99     | $20.99        | high           | low    | 6      | Spaceship, Inc. |
+| fly.monster    | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| dip.monster    | available | $1.99     | $20.99        | high           | low    | 3      | name.com        |
+| oak.monster    | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| fun.monster    | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| jot.monster    | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| off.monster    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| man.monster    | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| kgb.monster    | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| arts.monster   | resell    | —         | —             | high           | low    | 4      | Porkbun, LLC    |
+| mao.monster    | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| lay.monster    | available | $1.99     | —             | medium         | low    | 3      | name.com        |
+| eggs.monster   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .monster extension. The set spans dictionary words, action terms, and category words such as facts.monster, finals.monster, jewels.monster, ladies.monster, and matcha.monster. With a median ask of 20.49, this selection sits in a low upfront price range, which can appeal to both buyers seeking cheap inventory and founders testing a bold brand. The tradeoff is extension fit. When comparing these domains, focus on whether the word gains memorability from .monster or becomes harder to trust, explain, or retain. Stronger picks are simple, clean, and contextually amplified by the extension rather than undermined by it.
+This list covers 11,404 one-word .monster domain names, from playful compounds like FabFour and rolemodel to action-oriented picks such as shoparound and makehappen. With a median ask of $23.85, .monster remains one of the more affordable new gTLDs for building a memorable brand or testing a name before it moves. When comparing these domains, weigh the asking price against how easily the word reads, spells, and sticks in memory—since .monster's novelty means brandability matters more than category familiarity.
 
-- Median ask is 20.49 across 11,405 .monster domains
-- Best fits are words that pair naturally with .monster
-- Low entry price does not remove renewal risk
-- Avoid names that feel forced, vague, or trust-reducing
+- 11,404 one-word .monster domain names in this selection
+- Median asking price: $23.85 across the list
+- Short, single-word titles favor brandability over category cues
+- Updated daily to reflect current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
