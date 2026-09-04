@@ -187,7 +187,7 @@ b57d9626-233d-46e8-a78e-12399d3fb463,clear.monster,available,1.99,20.99,high,med
 d988b599-abf3-48f9-a464-267323bf70b0,sequent.monster,available,1.8,19.98,low,low,7,namecheap,,
 4d694afb-6b67-4a4c-85e8-6ce63d9f1809,structures.monster,available,1.99,,low,low,10,name.com,,
 c6de2e67-9a13-4eb8-8390-5ecaf5af5127,intended.monster,available,1.99,,high,low,8,name.com,,
-6b7b89c0-4f83-46af-b2be-3cbe1669854c,neckdeep.monster,available,1.99,,low,low,9,name.com,,
+6b7b89c0-4f83-46af-b2be-3cbe1669854c,neckdeep.monster,available,1.5,21.98,low,low,9,namecheap,,
 e7a2f1cc-25f9-4244-be65-c1a756643037,tornado.monster,resell,,,medium,low,7,"Spaceship, Inc.",13/04/2026 22:12,13/04/2027 23:59
 1d0d11e6-367c-4b4f-834a-3faf699dc33d,endearing.monster,available,1.99,20.99,high,low,9,name.com,,
 2319cac0-0074-4e90-a7f4-abd84f9d2fa0,turnout.monster,available,1.99,,medium,low,8,name.com,,
@@ -570,7 +570,7 @@ f7e654cb-f38b-472b-9d2e-125eccca5ba1,rile.monster,available,1.99,,medium,low,4,n
 872e8864-9190-41d2-83c5-62589d976c15,investor.monster,resell,,,high,medium,8,"Spaceship, Inc.",17/01/2026 15:57,17/01/2027 23:59
 6a344fa8-dfaa-4364-b4c3-f5e67bfcef33,unit.monster,premium,242,14.28,high,low,4,namesilo,,
 75d15063-7438-4a75-b549-751c74e97618,namely.monster,available,1.99,,medium,low,6,name.com,,
-a6a4e6d9-f6d2-47ae-bc54-6c5df656f728,reddish.monster,available,1.8,19.98,low,low,7,namecheap,,
+a6a4e6d9-f6d2-47ae-bc54-6c5df656f728,reddish.monster,available,1.5,21.98,low,low,7,namecheap,,
 f0892e1a-e541-485e-b394-308300d2e74d,certificate.monster,available,1.99,15.75,high,low,11,namesilo,,
 00c77da6-6047-4fe1-8e80-149a076ea5d5,lorditover.monster,available,1.99,,medium,low,12,name.com,,
 e6561fa7-dd64-42e5-b532-88e0c7fa9380,fallunder.monster,available,1.99,15.75,medium,low,10,namesilo,,
