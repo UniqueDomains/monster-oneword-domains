@@ -178,7 +178,7 @@ eec872c6-d849-49b1-9d03-7fea4dd909c9,basis.monster,available,1.99,15.75,high,low
 abc4c340-89ac-419f-89e4-412ecfce4349,ohmyGod.monster,available,1.99,,high,low,9,name.com,,
 71c508cb-e3ae-4ae4-9d16-ac73e620c0c8,arcuate.monster,available,1.8,19.98,low,low,7,namecheap,,
 2538b2ec-7e22-45c6-87b2-8755d84fb4fc,contained.monster,available,1.99,20.99,medium,low,9,name.com,,
-1063cea3-d214-4e24-ab2a-bd7e5e98b6b5,capital.monster,resell,,,medium,low,7,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
+1063cea3-d214-4e24-ab2a-bd7e5e98b6b5,capital.monster,resell,,,medium,medium,7,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
 46c3bfcc-1d1e-46ef-9361-3250fcce7095,sapphire.monster,available,1.99,,high,medium,8,name.com,,
 9a6bafb8-e7ad-4055-a4b9-25f250143b0d,cathartic.monster,available,1.8,19.98,low,low,9,namecheap,,
 400b8c2e-7e18-445e-b656-3fae345eab21,behavioral.monster,available,1.8,19.98,low,low,10,namecheap,,
@@ -198,7 +198,7 @@ e7a2f1cc-25f9-4244-be65-c1a756643037,tornado.monster,resell,,,medium,low,7,"Spac
 4bd6d502-561a-4486-820c-69d96851dd9b,worsened.monster,available,1.99,,medium,low,8,name.com,,
 8ed74a2d-0909-47a1-9cea-e9d3638c7433,azonic.monster,available,1.8,19.98,low,low,6,namecheap,,
 98acb8de-e844-48ed-aa45-d0530b00b2b1,groves.monster,available,1.99,,medium,low,6,name.com,,
-d74b79da-cca5-4d50-94ec-0e0d3273cbdf,clearance.monster,available,1.99,15.75,medium,low,9,namesilo,,
+d74b79da-cca5-4d50-94ec-0e0d3273cbdf,clearance.monster,available,1.5,21.98,medium,low,9,namecheap,,
 672bdcee-d0ab-4cf9-bf53-2a80f5972448,stratified.monster,available,1.8,19.98,low,low,10,namecheap,,
 5996a3ee-b93f-4a35-ad94-bf9dc8da842c,strongpersonality.monster,available,1.99,,high,low,18,name.com,,
 d2c1d09e-219f-4d55-950b-0428f1f2dddf,marvellous.monster,available,1.99,,high,low,10,name.com,,
@@ -625,7 +625,7 @@ bd4dfbf8-375c-4f4e-ae07-e34e6bb182d7,midJanuary.monster,available,1.99,,high,low
 6a638f54-96f3-4e60-a263-3ebecb48f171,tabby.monster,available,1.99,,medium,low,5,name.com,,
 4746c0b3-5a76-4357-8157-d3828df5dcde,avirulent.monster,available,1.8,19.98,low,low,9,namecheap,,
 368c84ef-7e5f-451f-b38d-a72d5fc88e81,unceasing.monster,available,1.8,19.98,low,low,9,namecheap,,
-e79216eb-cf4d-4172-9854-1f153b12f496,advised.monster,available,1.8,19.98,low,low,7,namecheap,,
+e79216eb-cf4d-4172-9854-1f153b12f496,advised.monster,available,1.5,21.98,low,low,7,namecheap,,
 c7523a70-fb69-4229-a9b6-fff8fc1ba190,difficulty.monster,available,1.99,15.75,medium,low,10,namesilo,,
 ca49a233-636a-4318-b71f-5e58828f58c5,aery.monster,available,1.8,19.98,low,low,4,namecheap,,
 abf3f74c-3eed-4541-b138-2ba949f76112,Astudent.monster,available,1.99,15.75,high,low,9,namesilo,,
@@ -987,9 +987,9 @@ b0d8a6ed-3058-4efa-bcb9-135074c355ff,gummyworm.monster,available,1.99,15.75,high
 41a04c1d-0d89-45b1-849a-7bcb306dce75,enable.monster,available,1.99,15.75,high,low,6,namesilo,,
 af01e403-a5a4-4a9f-8169-122ed7256c77,curve.monster,available,,,high,low,5,,,
 f4ff5c0e-40ab-4ecf-abe9-244a26461984,relating.monster,available,1.99,,medium,low,8,name.com,,
-fe8c9704-af82-4eb3-a38d-e8d5d365ca63,sourcecode.monster,available,1.5,21.98,low,low,11,namecheap,,
+fe8c9704-af82-4eb3-a38d-e8d5d365ca63,sourcecode.monster,available,1.5,21.98,medium,low,11,namecheap,,
 26efc498-df4d-45ea-b5de-bb24d512fd0d,havethelastlaugh.monster,available,1.99,,high,low,19,name.com,,
-508793fa-fb8e-4c65-8fbf-bdd404d53be0,rural.monster,available,1.99,,high,low,5,name.com,,
+508793fa-fb8e-4c65-8fbf-bdd404d53be0,rural.monster,available,1.5,21.98,medium,low,5,namecheap,,
 44a5ba68-e64d-4337-825e-414ceafb16e2,micro.monster,resell,5921.32,,medium,medium,5,"Spaceship, Inc.",19/04/2026 23:44,19/04/2027 23:59
 e8e375e4-5d61-4314-b191-a82c299d9447,mynameis.monster,available,1.99,,low,low,10,name.com,,
 36a0c623-1af3-429e-aa0e-1d769b3ba49c,asofyet.monster,available,1.99,15.75,medium,low,9,namesilo,,
