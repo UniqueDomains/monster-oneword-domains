@@ -1,10 +1,10 @@
-# Available .MONSTER One-Word Domains (24,100)
+# Available .MONSTER One-Word Domains (26,087)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C100%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C087%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .monster one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,100 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,087 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,100 domains · **Median ask:** $5.48 · **High-demand under $2,500:** 54
+**Public extract:** 1,000 rows · **Live catalog:** 26,087 domains · **Median ask:** $4.10 · **High-demand under $2,500:** 63
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/monster`
 **Best for:** founders, investors, studios
 
@@ -64,21 +64,21 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| cfs.monster     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo                                 |
+| cxl.monster     | available | $1.80     | $19.98        | high           | low    | 3      | namecheap                                |
 | safe.monster    | resell    | $1.99     | —             | high           | medium | 4      | name.com                                 |
 | bbc.monster     | premium   | $242      | $14.28        | high           | medium | 3      | namesilo                                 |
-| cxl.monster     | available | $1.80     | $19.98        | high           | low    | 3      | namecheap                                |
+| den.monster     | available | $1.99     | $20.99        | high           | low    | 3      | name.com                                 |
 | fabric.monster  | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.                          |
 | maps.monster    | premium   | $625      | $20.99        | high           | low    | 4      | name.com                                 |
-| den.monster     | available | $1.99     | $20.99        | high           | low    | 3      | name.com                                 |
+| fry.monster     | available | $1.80     | $19.98        | high           | low    | 3      | namecheap                                |
 | stellar.monster | resell    | $1.99     | —             | high           | medium | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | sell.monster    | premium   | $625      | —             | high           | medium | 4      | name.com                                 |
-| fry.monster     | available | $1.80     | $19.98        | high           | low    | 3      | namecheap                                |
+| hal.monster     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo                                 |
 | now.monster     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                              |
 | sing.monster    | premium   | $242      | $14.28        | high           | low    | 4      | namesilo                                 |
-| hal.monster     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo                                 |
-| ivan.monster    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                          |
 | idk.monster     | available | $1.99     | —             | medium         | low    | 3      | name.com                                 |
+| ivan.monster    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                          |
+| itc.monster     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo                                 |
 | lock.monster    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                          |
 | ito.monster     | available | $12.30    | $10.20        | medium         | low    | 3      | cloudflare                               |
 | mold.monster    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                         |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,100 live domains                        |
+| 1,000-row public sample | 26,087 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 54 high-demand names under $2,500          |
+| Basic exported fields   | 63 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONSTER One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

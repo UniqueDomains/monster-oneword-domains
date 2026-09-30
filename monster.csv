@@ -2,9 +2,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 aa0b69d6-18c9-4499-9d98-93c75f16dce5,esters.monster,available,1.99,17.29,low,low,6,namesilo,,,28/09/2026 13:25
 be4e73d1-5a78-4234-a0cf-e7f3e3a4febd,absinthe.monster,available,1.5,21.98,high,low,8,namecheap,,,16/09/2026 17:47
 ab25259b-0647-4f9c-b77f-9a5ab8886b3f,banqueting.monster,available,1.99,17.29,high,low,10,namesilo,,,22/09/2026 03:08
-1a269b88-6eb4-4553-9dff-2fdd2b52bdda,promoter.monster,available,1.99,,high,low,8,name.com,,,
+1a269b88-6eb4-4553-9dff-2fdd2b52bdda,promoter.monster,available,1.54,14.21,high,low,8,porkbun,,,29/09/2026 23:36
 d0f4f6ab-f369-4698-b4b5-9bd00c0a30ee,perinatal.monster,available,1.5,21.98,medium,low,9,namecheap,,,08/09/2026 17:07
-3b7e434e-2581-443b-aada-4e9f1017f130,critic.monster,available,1.99,,high,low,6,name.com,,,
+f14dc4d1-2673-4652-8f2b-2285091b4a77,trails.monster,available,1.99,17.29,medium,low,6,namesilo,,,29/09/2026 11:32
+3b7e434e-2581-443b-aada-4e9f1017f130,critic.monster,available,1.18,13.97,high,low,6,spaceship,,,29/09/2026 12:01
 05ec3bb8-1b45-4ec0-8719-aa97876006b4,brook.monster,available,1.18,13.97,high,low,5,spaceship,,,29/09/2026 04:32
 e0ec9bb6-ac59-407e-952c-bf50ee2975da,swampy.monster,available,1.8,19.98,medium,low,6,namecheap,,,10/08/2026 17:18
 a7877e7b-3154-481c-977c-39b036ca0857,fugitive.monster,available,1.8,19.98,high,low,8,namecheap,,,18/08/2026 07:53
@@ -18,18 +19,20 @@ dcae8d06-b140-4fb7-9b48-4d0df6765bdc,guerrilla.monster,available,1.8,19.98,high,
 2982462d-0537-4151-93a0-0faf1bfc21f4,liar.monster,available,1.99,17.29,high,low,4,namesilo,,,27/09/2026 14:44
 8b6d3be3-cec9-406e-9138-9d06d0f460b4,corpulence.monster,available,1.5,21.98,medium,low,10,namecheap,,,04/09/2026 22:00
 acd8aa32-7178-4bce-b90b-3af08c2030cb,airliner.monster,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 23:14
-e23bae63-f262-4822-80b2-0a889a3169ed,ursula.monster,available,1.99,17.29,medium,low,6,namesilo,,,28/09/2026 03:44
+e23bae63-f262-4822-80b2-0a889a3169ed,ursula.monster,available,1.99,17.29,high,low,6,namesilo,,,28/09/2026 03:44
 d8c4620e-ce6d-4a0b-9bf3-fd3d4e79c161,socks.monster,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 08:18
 027fe8a5-c7b6-4db7-8c8f-38e1dc02749c,cursory.monster,available,1.8,19.98,high,low,7,namecheap,,,13/08/2026 11:41
-3126bfd8-ea08-4a72-aaa4-1340bc91ae2e,bellyful.monster,available,1.5,21.98,medium,low,8,namecheap,,,23/09/2026 06:51
+3126bfd8-ea08-4a72-aaa4-1340bc91ae2e,bellyful.monster,available,1.5,21.98,high,low,8,namecheap,,,23/09/2026 06:51
 cc7043f1-2fab-42ca-90c5-194dfbfb08ef,neighbor.monster,available,1.99,,high,low,8,name.com,,,
+1556228b-5467-486b-9df3-41abcb804947,authorize.monster,available,1.99,17.29,high,low,9,namesilo,,,29/09/2026 20:39
+5de61170-4e41-4fcc-9505-8e2552f6aef9,ormond.monster,available,1.5,21.98,medium,low,6,namecheap,,,29/09/2026 15:48
 392b1e1d-037c-4b77-9b72-b38a71be4ace,tagged.monster,available,1.8,19.98,high,low,6,namecheap,,,22/08/2026 17:17
 2d3ead56-c32a-4b01-8f7a-8e95db99313b,series.monster,available,1.5,21.98,high,low,6,namecheap,,,19/09/2026 17:55
-f8f6d3b2-c3b4-4e56-bcc4-322178d906a3,armour.monster,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 07:22
+f8f6d3b2-c3b4-4e56-bcc4-322178d906a3,armour.monster,available,1.99,17.29,high,low,6,namesilo,,,20/09/2026 07:22
 e941116e-330c-47f8-a395-8c80ccc26b21,firstly.monster,available,1.99,17.29,medium,low,7,namesilo,,,24/09/2026 18:41
 91a2ca46-cc2c-4111-9b81-f78c9bb514ca,cognate.monster,available,1.8,19.98,high,low,7,namecheap,,,10/08/2026 15:14
 6a7c3749-9075-4105-aff3-395e1497f603,clubable.monster,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 12:57
-f133a302-8197-4e97-a379-eb882f715360,genu.monster,available,1.5,21.98,medium,low,4,namecheap,,,20/09/2026 11:29
+f133a302-8197-4e97-a379-eb882f715360,genu.monster,available,1.5,21.98,high,low,4,namecheap,,,20/09/2026 11:29
 7f2192c1-10b9-4c2d-b1d8-5f0ded7991e2,turbinate.monster,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 16:20
 a980a4f1-04f0-43b5-8d95-b654db4f6693,luckily.monster,available,1.5,21.98,high,low,7,namecheap,,,13/09/2026 21:22
 2d8dbfed-e03d-4a2e-a273-aeebb624a4e1,twaddle.monster,available,1.5,21.98,medium,low,7,namecheap,,,21/09/2026 23:55
@@ -40,7 +43,7 @@ c2f933ff-4575-48fe-b276-89cc6c1b3cc3,slammer.monster,available,1.5,21.98,medium,
 563b7dfc-a9c2-4ae4-8ceb-068a4aa3bd8b,grumpy.monster,available,,,medium,low,6,,,,
 7d7434e8-a960-4b2a-83e5-6efb6d4a810f,explosive.monster,available,1.8,19.98,high,low,9,namecheap,,,17/08/2026 18:33
 31983a45-dfa3-40a6-b16b-29412dacd73a,economical.monster,available,1.5,21.98,high,low,10,namecheap,,,24/09/2026 13:25
-4747f0bb-eb3e-433c-9ad1-9b35ac68791f,nascent.monster,available,1.5,21.98,medium,low,7,namecheap,,,03/09/2026 13:35
+4747f0bb-eb3e-433c-9ad1-9b35ac68791f,nascent.monster,available,1.5,21.98,high,low,7,namecheap,,,03/09/2026 13:35
 d0d49f85-60ed-4745-8fea-50e14a2e9cab,motivation.monster,available,1.5,21.98,high,low,10,namecheap,,,25/09/2026 21:49
 31332c0b-1ea6-4d50-87c7-2b15796df6f0,hal.monster,available,1.99,17.29,high,low,3,namesilo,,,25/09/2026 12:39
 c254c938-ca43-496e-99b9-9cfc171361a1,beginner.monster,available,1.99,17.29,high,low,8,namesilo,,,23/09/2026 02:23
@@ -55,34 +58,40 @@ a1f3b46d-8922-4056-acb1-f3cb59614a5a,dishonest.monster,available,1.8,19.98,mediu
 91e68623-70e7-40eb-b61b-8fa2d31f3d5b,adjunction.monster,available,1.99,17.29,medium,low,10,namesilo,,,17/09/2026 08:25
 e6f5db13-8a27-4fb1-aad2-40cd6d4b987d,celsius.monster,available,1.99,17.29,high,low,7,namesilo,,,19/09/2026 04:00
 065dcad3-259a-428a-ae59-67dac6ffe25f,denied.monster,available,1.99,17.29,low,low,6,namesilo,,,27/09/2026 02:21
-e8d111cc-f915-4aaa-b10b-4124bf4f8311,feminism.monster,available,1.99,15.75,high,low,8,namesilo,,,
+e8d111cc-f915-4aaa-b10b-4124bf4f8311,feminism.monster,available,1.99,14.45,high,low,8,dynadot,,,29/09/2026 19:12
 876b2fe8-4a10-419f-8eeb-ae6fd830978d,refunds.monster,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 14:13
 a85546e1-0af5-4d3c-ba79-ac014760244f,overdose.monster,available,1.99,17.29,medium,low,8,namesilo,,,29/09/2026 02:45
+f4ea3985-60e1-4eaa-afe6-3d8f91d38ceb,spleen.monster,available,0.99,25.99,high,low,6,godaddy,,,30/09/2026 02:01
 60c77f14-1d28-4d7e-860a-f6f435862d54,talismanic.monster,available,1.5,21.98,medium,low,10,namecheap,,,11/09/2026 07:30
 95884c99-e16e-419d-98b9-696beb759182,corded.monster,available,1.8,19.98,medium,low,6,namecheap,,,13/08/2026 00:57
 65c7586d-02d9-4402-a3d5-05005487fc70,manzoni.monster,available,1.99,17.29,high,low,7,namesilo,,,18/09/2026 05:31
 68dc073c-5828-44e5-b53e-3898d7996ca6,olivier.monster,available,1.99,17.29,high,low,7,namesilo,,,22/09/2026 07:16
 b8a14222-5d63-444e-b46e-4a7db39ff571,mourning.monster,available,1.8,19.98,medium,low,8,namecheap,,,25/08/2026 08:38
 c8186b85-4c62-4b41-8307-258716c21fe8,mannish.monster,available,1.8,19.98,medium,low,7,namecheap,,,24/08/2026 15:22
-7617405a-df09-432c-911e-178d1f7c7ec5,violation.monster,available,1.99,,high,low,9,name.com,,,
+7617405a-df09-432c-911e-178d1f7c7ec5,violation.monster,available,12.3,10.2,high,low,9,cloudflare,,,30/09/2026 00:09
+64b80ebf-e0fe-491f-a95a-c52adc4d4170,avenge.monster,available,1.18,13.97,high,low,6,spaceship,,,29/09/2026 13:46
 f6c39b26-1675-47f2-b99d-a0f9d4265818,filaria.monster,available,1.99,17.29,medium,low,7,namesilo,,,18/09/2026 06:14
 d9d0da08-1e66-4ddb-b73c-b78ab9f2786f,bagpipe.monster,available,1.5,21.98,high,low,7,namecheap,,,21/09/2026 18:26
 38b249fa-5c93-4248-88ff-c3d72c4b1f4e,supportive.monster,available,0.99,25.99,high,low,10,godaddy,,,28/09/2026 02:03
-45fd73e0-a1ad-4948-bb93-3993a5cebdde,tectonic.monster,available,1.8,19.98,medium,low,8,namecheap,,,06/08/2026 15:47
+45fd73e0-a1ad-4948-bb93-3993a5cebdde,tectonic.monster,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 15:47
 f32e21b0-f708-4854-8193-4b212951ab05,biosafety.monster,available,1.5,21.98,high,low,9,namecheap,,,23/09/2026 18:56
 85d34cd3-a75e-46cf-b59b-54a17a663bf7,asymmetric.monster,available,1.8,19.98,medium,low,10,namecheap,,,07/08/2026 10:25
 d627f5be-39b0-4cf4-be0f-ba2f6540f8a4,denis.monster,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 15:03
 46133257-3dc2-42e3-a8a3-3198f8e57c39,manuals.monster,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 09:33
 f1a0f3c6-412a-4cf2-9a86-68ab223e0a82,dalliance.monster,available,1.5,21.98,high,low,9,namecheap,,,11/09/2026 19:38
+f140c721-ba8b-4424-bbbc-6aadf73d3fd9,endured.monster,available,1.54,14.21,medium,low,7,porkbun,,,29/09/2026 23:57
+791106eb-25a0-404b-be7c-6e11dc2255f7,considerably.monster,available,1.18,13.97,medium,low,12,spaceship,,,29/09/2026 14:23
 520a654e-0e93-45fb-9d1c-2aa804ed7575,justified.monster,available,1.5,21.98,high,low,9,namecheap,,,25/09/2026 12:26
+41004792-4a00-4f1b-9d56-78ac1f1ee6be,sponsored.monster,available,1.18,13.97,medium,low,9,spaceship,,,29/09/2026 10:41
 3be8bdce-71c5-4f23-96a0-4d96eadefff5,faithfully.monster,available,1.5,21.98,high,low,10,namecheap,,,14/09/2026 11:42
 c35044a9-dee7-40a1-bad1-b66fbee10054,untwisted.monster,available,1.5,21.98,medium,low,9,namecheap,,,12/09/2026 21:56
 dfe271d0-1521-4b4c-bdd1-f9a05220257c,xxi.monster,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 12:32
 e8738496-e81b-4d21-82d3-1d2322bd986e,tolerate.monster,available,1.5,21.98,high,low,8,namecheap,,,24/09/2026 10:45
-c7593394-4acc-4f90-bd4b-d6284a2510fd,chairman.monster,available,1.99,15.75,high,low,8,namesilo,,,
+c7593394-4acc-4f90-bd4b-d6284a2510fd,chairman.monster,available,1.99,14.45,high,low,8,dynadot,,,29/09/2026 07:55
 2f8ff084-c8c0-4162-bd69-69229b44446c,philips.monster,available,1.99,,high,medium,7,name.com,,,
 c0d19d2e-0e50-4405-8d1e-12402d78b20e,puts.monster,available,1.99,17.29,medium,low,4,namesilo,,,18/09/2026 14:17
 87d2c21c-bc03-474f-8b3e-7d866b6932d0,investigating.monster,available,1.99,17.29,high,low,13,namesilo,,,27/09/2026 09:46
+b74e2e45-115d-4d3c-82cd-b4a573ae0d65,tempo.monster,resell,,,high,high,5,,,,29/09/2026 07:48
 8d797bc4-53c4-43f3-a6a9-de08416aab3e,mole.monster,available,1.99,14.45,high,low,4,dynadot,,,27/09/2026 11:53
 53c70d22-5603-4355-a89b-23f8302c03af,earthworm.monster,available,1.99,17.29,high,low,9,namesilo,,,19/09/2026 06:33
 3552edf6-aaca-46a5-a775-5b57cb841f63,genic.monster,available,1.8,19.98,medium,low,5,namecheap,,,18/08/2026 21:35
@@ -100,7 +109,8 @@ beb6b2cb-4d24-460f-956f-3450096a7af9,drummond.monster,available,1.99,17.29,mediu
 edc66602-3b7b-4d72-998d-b66ced5b4e6c,tenormin.monster,available,1.5,21.98,medium,low,8,namecheap,,,20/09/2026 20:11
 63c04274-bcc7-4ee9-8f44-25e671d6779e,throwback.monster,available,1.5,21.98,high,low,9,namecheap,,,11/09/2026 15:00
 d65d5621-689e-4a22-ae80-66bb48166e95,badness.monster,available,1.8,19.98,medium,low,7,namecheap,,,08/08/2026 07:23
-b45b4792-d23b-4ad6-923d-4b585c0184e4,posts.monster,available,1.5,21.98,medium,low,5,namecheap,,,19/09/2026 00:49
+629ef206-4c9f-45a7-a872-922782d1c67f,metres.monster,available,1.18,13.97,medium,low,6,spaceship,,,29/09/2026 23:41
+b45b4792-d23b-4ad6-923d-4b585c0184e4,posts.monster,available,1.5,21.98,high,low,5,namecheap,,,19/09/2026 00:49
 50253255-5e63-4efb-a521-a20bed45a547,jailhouse.monster,available,1.5,21.98,medium,low,9,namecheap,,,08/09/2026 22:44
 00871ed4-398f-4abd-93f6-fbf3f815b326,dogfight.monster,available,1.5,21.98,high,medium,8,namecheap,,,09/09/2026 18:56
 85830107-a48d-4caa-a081-e76498240c27,uplifted.monster,available,1.5,21.98,high,low,8,namecheap,,,12/09/2026 23:11
@@ -108,12 +118,13 @@ b45b4792-d23b-4ad6-923d-4b585c0184e4,posts.monster,available,1.5,21.98,medium,lo
 19fa63c7-29d0-45f3-9941-edc942825b6a,orwellian.monster,available,1.5,21.98,medium,low,9,namecheap,,,04/09/2026 18:08
 cbec19a9-e7c7-4d9f-9100-3c51f9bba852,month.monster,available,1.54,14.21,high,low,5,porkbun,,,29/09/2026 05:48
 c817ef7d-dc88-4680-af74-bca730154d05,brunch.monster,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 10:54
-6e5f3a81-b7f9-4102-b940-4cdcd24a5824,reverting.monster,available,1.5,21.98,medium,low,9,namecheap,,,09/09/2026 15:58
+6e5f3a81-b7f9-4102-b940-4cdcd24a5824,reverting.monster,available,1.5,21.98,high,low,9,namecheap,,,09/09/2026 15:58
 1be5155f-d7b5-4a96-8b0a-a7d02f2dac08,riskily.monster,available,1.5,21.98,low,low,7,namecheap,,,15/09/2026 23:50
 b5effce3-fc0c-4ef8-a73c-6145952e26f4,azurite.monster,available,1.99,17.29,high,low,7,namesilo,,,21/09/2026 11:39
 a4863ecb-7334-4b6d-aead-372ff4838dd0,affairs.monster,available,1.99,17.29,high,low,7,namesilo,,,17/09/2026 14:09
-956c3053-8909-4d5b-a4ac-25447d38ecc4,skies.monster,available,1.5,21.98,medium,low,5,namecheap,,,18/09/2026 07:49
+956c3053-8909-4d5b-a4ac-25447d38ecc4,skies.monster,available,1.5,21.98,high,low,5,namecheap,,,18/09/2026 07:49
 da57fe9c-6c28-4ff9-9691-8189d7b1170e,francium.monster,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 23:59
+f9d3981d-ba6e-4e15-8880-ba9eccfeb096,specifics.monster,available,1.18,13.97,medium,low,9,spaceship,,,29/09/2026 17:04
 a7af036c-5032-4721-a2f8-ebd2279dd83e,moss.monster,resell,,,high,medium,4,,,,28/09/2026 14:55
 0ad06e39-cf6f-457f-a2da-86858ceb8b62,fore.monster,available,1.8,19.98,high,low,4,namecheap,,,18/08/2026 11:26
 e50cd836-5738-489a-819a-6c340db743bc,adiabatic.monster,available,1.8,19.98,medium,low,9,namecheap,,,
@@ -122,7 +133,7 @@ e50cd836-5738-489a-819a-6c340db743bc,adiabatic.monster,available,1.8,19.98,mediu
 65195006-2415-45b8-ab2b-d8d4f2ab363c,zaftig.monster,available,1.5,21.98,medium,low,6,namecheap,,,13/09/2026 14:56
 3cf085a6-4572-4d6c-9883-8be8c04f5b47,edgeless.monster,available,1.8,19.98,medium,low,8,namecheap,,,15/08/2026 08:37
 2ad1d80b-e34c-44f9-8728-e816be970655,directing.monster,available,1.5,21.98,high,low,9,namecheap,,,24/09/2026 10:51
-4fc949ed-82dd-4409-83a0-f2afd1681690,eyesight.monster,available,1.99,15.75,high,low,9,namesilo,,,
+4fc949ed-82dd-4409-83a0-f2afd1681690,eyesight.monster,available,1.18,13.97,high,low,9,spaceship,,,29/09/2026 18:51
 e93f5931-b27c-4eef-8303-aa9b36ac9e81,loud.monster,available,1.5,21.98,high,low,4,namecheap,,,24/09/2026 19:25
 57ac0260-e751-4db6-ae25-09c35e3c70a7,beseeching.monster,available,1.8,19.98,medium,low,10,namecheap,,,09/08/2026 15:20
 73285047-ec36-4d81-be1a-4f9ea36ccead,nonuple.monster,available,1.5,21.98,low,low,7,namecheap,,,03/09/2026 17:30
@@ -133,8 +144,10 @@ e93f5931-b27c-4eef-8303-aa9b36ac9e81,loud.monster,available,1.5,21.98,high,low,4
 b936679d-64ba-4b43-9d09-305db4e991e6,idiot.monster,available,1.99,17.29,high,low,5,namesilo,,,28/09/2026 05:02
 541d217c-5d51-413f-bbcc-9319830fe917,blackball.monster,available,1.5,21.98,medium,low,9,namecheap,,,03/09/2026 15:03
 37182bc4-a228-4847-bab4-596c0ed57357,wounds.monster,available,1.5,21.98,low,low,6,namecheap,,,25/09/2026 19:23
+c341cb61-f118-48e2-8aa1-90626703f716,unicorn.monster,resell,,,high,medium,7,,,,29/09/2026 14:05
 137fab05-321f-47cc-a9ca-35d4e3ce9197,sloped.monster,available,1.8,19.98,medium,low,6,namecheap,,,07/08/2026 04:26
 482d59ae-c9f1-4f6e-84ed-a059c5e4ce09,achillea.monster,available,1.99,17.29,medium,low,8,namesilo,,,17/09/2026 00:35
+1b784c57-841e-4a92-868f-2a0253dc0cbd,dangerously.monster,available,1.54,14.21,medium,low,11,porkbun,,,29/09/2026 14:40
 b8916f2c-241b-4b1d-b364-af57970037ac,goldilocks.monster,available,1.99,17.29,high,low,10,namesilo,,,20/09/2026 17:03
 2d76a413-86dd-48ea-83d6-94ac6674b648,folly.monster,available,1.5,21.98,high,low,5,namecheap,,,23/09/2026 11:19
 8be90d8c-afcc-4499-afb6-9e84ae5c3a06,berserk.monster,available,1.8,19.98,medium,low,7,namecheap,,,
@@ -143,11 +156,13 @@ a7982a0f-421f-4cf2-b2f4-07ca08a3aa15,investigators.monster,available,1.18,13.97,
 06d0881d-24fd-4cc8-bb16-ef865bec55b6,aiken.monster,available,1.5,21.98,high,low,5,namecheap,,,17/09/2026 21:01
 068cbd37-7f60-4f21-94d4-e78b1c81cb5d,shaven.monster,available,1.5,21.98,high,medium,6,namecheap,,,10/09/2026 06:07
 29f45600-f2fc-4f0d-bfd0-5b872f45d80b,arsine.monster,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 09:42
-2bf8703e-becf-416b-bbe8-cdba02a609f7,wentworth.monster,available,1.99,17.29,medium,low,9,namesilo,,,25/09/2026 21:47
+18e7003e-d322-44b7-bbf8-c20fabbe130f,ozone.monster,available,1.99,14.45,high,low,5,dynadot,,,29/09/2026 07:48
+2bf8703e-becf-416b-bbe8-cdba02a609f7,wentworth.monster,available,1.99,17.29,high,low,9,namesilo,,,25/09/2026 21:47
 8baaacec-1e86-4c79-adc9-4277a83e7f7c,lutecium.monster,available,1.5,21.98,medium,low,8,namecheap,,,20/09/2026 23:39
 2e3da449-8d41-4649-9e8f-bbdbf4a3550b,lucullan.monster,available,1.8,19.98,medium,low,8,namecheap,,,24/08/2026 11:00
 a486e51f-7987-4e59-a797-f346e4c15ef4,bulla.monster,available,1.99,17.29,medium,low,5,namesilo,,,24/09/2026 05:20
 1b5e822c-a2f7-409c-beeb-ae54a545b536,presented.monster,available,12.3,10.2,medium,low,9,cloudflare,,,28/09/2026 08:35
+9b7072d2-e000-4c39-a629-c2c26b7f2e6f,ching.monster,available,1.99,17.29,medium,low,5,namesilo,,,29/09/2026 08:53
 3dbad5ad-fdd9-416e-b4db-376225fb0a08,resignation.monster,available,1.99,,high,low,11,name.com,,,
 e71947a9-982f-41d9-b542-36257456400b,dampness.monster,available,1.99,20.99,medium,low,8,name.com,,,13/08/2026 16:45
 9d34f1d5-27da-49fe-bdc5-6cf7453d6d94,richest.monster,available,1.99,17.29,medium,low,7,namesilo,,,28/09/2026 12:54
@@ -158,7 +173,7 @@ c3b13cb2-e292-4d6f-b096-a6956df850e6,exclaimed.monster,available,1.99,17.29,medi
 8d8085f3-b5ed-4d76-ab89-85047dc059f0,accuse.monster,available,1.18,13.97,medium,low,6,spaceship,,,29/09/2026 02:41
 032425e0-9df0-4cec-a61c-93db92d828e0,dinnertime.monster,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:22
 3c01cb8e-71d1-48a9-888c-79ae8c0c6ddd,acerbity.monster,available,1.99,17.29,medium,low,8,namesilo,,,16/09/2026 23:41
-f2a87a0c-3463-4473-9cbe-3ceecb28961d,jansen.monster,available,12.3,10.2,medium,low,6,cloudflare,,,28/09/2026 18:46
+f2a87a0c-3463-4473-9cbe-3ceecb28961d,jansen.monster,available,12.3,10.2,high,low,6,cloudflare,,,28/09/2026 18:46
 a1c9d05f-79e4-47a3-8d99-8adb3d69fa39,teammate.monster,available,1.99,,high,low,8,name.com,,,
 3679b32c-cc7c-4640-b092-7590c6bff30b,casteless.monster,available,1.8,19.98,medium,low,9,namecheap,,,11/08/2026 20:25
 dbf358c3-a584-40af-8f24-f5ebd5ea2e04,pamphlet.monster,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 07:11
@@ -170,7 +185,7 @@ b87d3c6b-68b5-4f6a-90a9-d9293dcfb45f,tertiary.monster,available,1.8,19.98,medium
 da3b4c8d-a816-430b-8c0f-c282433cbd6d,duplicity.monster,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 16:52
 3dade45e-3700-4d99-af7a-a328cf55b14b,conceptual.monster,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 20:05
 2b897013-821a-494e-8764-1e56f4e5a2f8,possessions.monster,available,1.54,14.21,low,low,11,porkbun,,,28/09/2026 17:10
-1f312c86-8c9f-4eb5-9087-daf4bcfd21cf,stephenson.monster,available,1.99,17.29,medium,low,10,namesilo,,,25/09/2026 06:30
+1f312c86-8c9f-4eb5-9087-daf4bcfd21cf,stephenson.monster,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 06:30
 4b5e0d12-1f62-4906-a595-05883649b3b4,unasked.monster,available,1.5,21.98,medium,low,7,namecheap,,,12/09/2026 01:10
 016290b1-9759-45bf-843b-97cb561be361,newtonian.monster,available,1.5,21.98,medium,low,9,namecheap,,,03/09/2026 16:55
 3859fc0e-5121-401d-9585-c9b63536a7e3,congressman.monster,available,1.18,13.97,high,low,11,spaceship,,,28/09/2026 04:59
@@ -185,13 +200,14 @@ b546b56a-0c9f-47cc-ba0a-85f54b929aa7,lille.monster,available,1.99,17.29,high,low
 fccc3b03-cca0-4da6-bf0d-7094a833b482,nne.monster,available,1.5,21.98,high,low,3,namecheap,,,15/09/2026 16:50
 904c97fb-cfd5-4549-8943-4ab8ad55a998,analyzer.monster,available,1.99,17.29,high,low,8,namesilo,,,19/09/2026 01:55
 9e20a73c-ddd7-487c-9783-dcf43c833354,laxative.monster,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 21:25
+a17fd2bc-bbbc-4579-ab6d-9dd24d0f85fe,grabs.monster,available,1.99,17.29,medium,low,5,namesilo,,,29/09/2026 11:38
 2056a875-8f25-44df-adcf-291c003d5900,tailed.monster,available,1.5,21.98,high,low,6,namecheap,,,11/09/2026 07:08
 b04f9136-de44-4c25-a41f-a6015c0effa1,kurakkan.monster,available,1.99,17.29,medium,low,8,namesilo,,,17/09/2026 15:21
 7b05c464-957f-43ba-a679-b06dac935339,underived.monster,available,1.5,21.98,medium,low,9,namecheap,,,12/09/2026 07:29
 71d92c99-e314-4584-aa8d-4440811eb6df,southmost.monster,available,1.5,21.98,high,medium,9,namecheap,,,10/09/2026 14:55
 60e9f8ab-e5cc-4361-9a5e-dd1209af5ee2,atwood.monster,available,12.3,10.2,medium,low,6,cloudflare,,,28/09/2026 18:22
 4b20ccbf-cfaa-4ea8-985e-26c07a08d16f,pertly.monster,available,1.5,21.98,medium,low,6,namecheap,,,15/09/2026 02:17
-ad14d7c4-81e5-40df-9bde-925a8ad4ff29,communication.monster,available,1.99,17.29,high,low,13,namesilo,,,25/09/2026 03:16
+ad14d7c4-81e5-40df-9bde-925a8ad4ff29,communication.monster,available,1.18,13.97,high,low,13,spaceship,,,29/09/2026 06:08
 90546ce9-0e8e-4b85-a609-a259743c36e4,weaker.monster,available,1.99,17.29,low,low,6,namesilo,,,29/09/2026 05:14
 61248205-2684-4336-a241-248827355679,volunteering.monster,available,1.5,21.98,high,low,12,namecheap,,,17/09/2026 09:33
 36a216e7-5d91-407a-baa9-8929d0d40fe7,inured.monster,available,1.8,19.98,medium,low,6,namecheap,,,17/08/2026 10:01
@@ -199,6 +215,7 @@ dc141ce5-907d-44d5-8221-88f7efd31091,chary.monster,available,1.8,19.98,medium,lo
 8178d9f5-8f3c-49be-bcf0-178fca156929,fragmented.monster,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 13:27
 139077b9-d9a5-4fc0-ad9d-a37b7ef7c65a,rhythmic.monster,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 14:50
 38873739-bb15-4216-8062-407414e87caf,analyze.monster,available,1.99,,high,low,7,name.com,,,
+62d740a6-e5dd-4fef-a441-e5b4977f9f11,caen.monster,available,12.3,10.2,medium,low,4,cloudflare,,,29/09/2026 09:32
 c4dcbb4b-efe3-4959-a000-1d5147423719,appease.monster,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 22:08
 8f04b668-833d-42a7-9fc8-397617bd178f,snap.monster,resell,,,high,medium,4,"NameSilo, LLC",01/04/2019 14:07,01/04/2027 23:59,26/09/2026 09:06
 3f5a14d3-734a-47c7-a268-776b68673c91,phosphorus.monster,available,1.5,21.98,medium,low,10,namecheap,,,20/09/2026 22:25
@@ -225,9 +242,9 @@ dcdabcee-c281-43f8-b3f8-d2069dd9a2d1,risen.monster,available,1.5,21.98,high,low,
 b9ff6b39-88a8-4edf-a100-cd6b3480b8ae,bennie.monster,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 08:32
 543a9245-023c-4c8a-b56f-44c9e841ede2,intentions.monster,available,1.99,14.45,medium,low,10,dynadot,,,27/09/2026 22:32
 3b349938-bb17-4deb-bd92-b9b88c36de8d,enliven.monster,available,1.99,17.29,high,low,7,namesilo,,,22/09/2026 04:56
-9adc100c-93d2-45b5-839f-cbfb517ab283,gulf.monster,available,1.99,15.75,high,low,4,namesilo,,,
+9adc100c-93d2-45b5-839f-cbfb517ab283,gulf.monster,available,1.99,17.29,high,low,4,namesilo,,,29/09/2026 15:29
 ecfd908d-5362-4339-ae2c-0ecb4c0acf6c,anisoptera.monster,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 09:34
-b8b371cf-8f69-42cd-8345-b14c7b4d5ab7,geocentric.monster,available,1.8,19.98,medium,low,10,namecheap,,,18/08/2026 22:16
+b8b371cf-8f69-42cd-8345-b14c7b4d5ab7,geocentric.monster,available,1.8,19.98,high,low,10,namecheap,,,18/08/2026 22:16
 cd051e92-afcc-401d-99ed-68b88058b7d2,premise.monster,available,1.99,17.29,high,low,7,namesilo,,,20/09/2026 16:37
 63e66c27-40bb-4c59-8dd1-1240453f30c8,commensal.monster,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 19:08
 ee4e0a07-d231-4e08-a089-cae0de6ad03f,unbuttoned.monster,available,1.5,21.98,medium,low,10,namecheap,,,12/09/2026 04:42
@@ -239,9 +256,12 @@ aab42b5d-6d58-43be-996d-9074ebe12fe1,powerfully.monster,available,1.5,21.98,high
 e869e92a-a55a-464f-8ddf-0fdc78fc9fa3,scratchy.monster,available,1.8,19.98,medium,low,8,namecheap,,,
 bef4ebd8-8208-4f37-861d-e1abcb866738,caudate.monster,available,1.8,19.98,high,low,7,namecheap,,,11/08/2026 22:26
 4d06b99a-1211-46ef-b6bd-fdfd8a713098,thrilling.monster,available,1.8,19.98,high,low,9,namecheap,,,16/08/2026 02:41
+0ab1882d-e6d6-46f1-afc2-2cc1d08e016c,burma.monster,available,1.18,13.97,high,medium,5,spaceship,,,29/09/2026 11:49
+8c312d8a-a384-40fd-8b80-682d6fbbb9e7,itc.monster,available,1.99,17.29,high,low,3,namesilo,,,29/09/2026 10:09
 947c64ec-684f-4c44-95a9-05ce918f685f,naomi.monster,available,1.99,17.29,medium,low,5,namesilo,,,28/09/2026 14:57
 1880e6a3-1da6-4b50-925a-57ca14782bda,sampson.monster,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 01:42
 ede05dfb-0ea7-4a39-b7a5-10bbc99e44cd,cochlear.monster,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 14:45
+541a738d-528a-4b68-9bdb-335b45d78ea3,lorna.monster,available,12.3,10.2,medium,low,5,cloudflare,,,29/09/2026 15:29
 43874af1-bc7e-4889-978a-932c48fb4219,hydroponic.monster,available,1.8,19.98,medium,low,10,namecheap,,,06/08/2026 10:34
 8564144b-4d92-4932-86dc-dc415dfaf90b,capt.monster,available,1.5,21.98,high,low,4,namecheap,,,25/09/2026 12:23
 1f7961c1-cd60-46ad-9d36-4113b6021ac5,copper.monster,resell,,,high,low,6,Ledl.net GmbH & Co KG,21/08/2026 04:16,21/08/2027 23:59,26/09/2026 05:15
@@ -265,10 +285,10 @@ c00bbd1f-40b9-40fb-979b-16aad1439ad7,malt.monster,available,1.8,19.98,high,low,4
 e0821d51-b04a-4bd4-bea0-16f770ca8e81,now.monster,resell,,,high,medium,3,Dynadot Inc,13/02/2026 01:27,13/02/2027 23:59,28/09/2026 01:14
 c5ba65ca-679f-48fa-9e91-7204b1c2ed38,aeneas.monster,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 12:27
 82fe3090-0f40-48e9-9fcd-84c2913743a6,bulletin.monster,available,1.5,21.98,high,low,8,namecheap,,,24/09/2026 11:08
-0a28ba54-6226-4810-ba23-f8fd5cc3e1da,weekend.monster,available,1.99,17.29,high,low,7,namesilo,,,26/09/2026 00:30
+57a0d0df-21e7-47a4-9144-b242c42245cf,bids.monster,available,1.99,17.29,high,low,4,namesilo,,,29/09/2026 15:47
+0a28ba54-6226-4810-ba23-f8fd5cc3e1da,weekend.monster,available,12.3,10.2,high,low,7,cloudflare,,,29/09/2026 15:56
 85c563d8-a1f9-45ee-a952-2a61e0031841,spears.monster,available,1.18,13.97,medium,low,6,spaceship,,,29/09/2026 05:36
 e3f9c5c1-4f10-4b24-be55-89e68bc28492,postoffice.monster,available,1.99,,high,low,11,name.com,,,
-5962495c-b6bd-4cf7-b976-4d8060ca16cf,humans.monster,available,,,high,medium,6,,,,
 6e809cff-bc53-44c5-ab05-3d6c85b4f814,heed.monster,available,1.5,21.98,high,low,4,namecheap,,,08/09/2026 10:58
 3209c00e-c95f-4a80-899d-f5d38cdea130,arbitrager.monster,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 00:30
 6981c1e3-3ff6-4231-af94-433d1d83fb70,fearsome.monster,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 08:55
@@ -277,10 +297,13 @@ d8cd3535-1db1-4bcd-9b8c-861c21f4408f,row.monster,available,1.99,17.29,high,low,3
 b2e54a31-f516-42b0-89be-250afe41c1bd,aguacate.monster,available,1.8,19.98,medium,low,8,namecheap,,,07/08/2026 23:46
 ece42f92-7a70-49be-abe9-38b0c250e64e,sirach.monster,available,1.5,21.98,medium,low,6,namecheap,,,23/09/2026 07:34
 1fc5f260-3358-41a4-95df-bd12e22ee24c,serious.monster,available,1.99,17.29,high,low,7,namesilo,,,24/09/2026 23:04
-0d6e7751-da35-49ed-9706-e6e827b2bb81,attained.monster,available,1.8,19.98,medium,low,8,namecheap,,,07/08/2026 15:07
+0d6e7751-da35-49ed-9706-e6e827b2bb81,attained.monster,available,1.8,19.98,high,low,8,namecheap,,,07/08/2026 15:07
+bbb97b5b-5b70-4138-897a-59a3d1b8d54e,hofmann.monster,available,1.54,14.21,high,low,7,porkbun,,,29/09/2026 09:12
+46c08563-1423-4092-9be0-c14c5e94c009,haarlem.monster,available,1.99,17.29,medium,low,7,namesilo,,,29/09/2026 22:19
 5360c1d8-5439-469b-a4ae-39be28d404c5,francois.monster,available,1.5,21.98,high,low,8,namecheap,,,27/09/2026 07:39
 b2a70472-3e0b-44eb-9152-9dd7e986236e,planes.monster,available,1.5,21.98,high,low,6,namecheap,,,17/09/2026 03:50
 e45e2da9-cdef-40f5-b4df-91d30a56c0f7,wordsworth.monster,available,12.3,10.2,medium,low,10,cloudflare,,,28/09/2026 15:34
+62fa7dd5-fbff-421f-be98-a3cccc01b77b,luton.monster,available,1.5,21.98,high,low,5,namecheap,,,29/09/2026 21:25
 134f9587-2223-4895-b998-416e62991721,scenes.monster,available,1.99,17.29,high,low,6,namesilo,,,18/09/2026 15:27
 fad8ec9a-568c-49c4-8d31-229724d07b5b,eery.monster,available,1.8,19.98,medium,low,4,namecheap,,,15/08/2026 12:45
 96158860-8e4a-4849-be5b-6222513c0914,farmer.monster,available,1.5,21.98,high,low,6,namecheap,,,08/09/2026 06:02
@@ -290,39 +313,46 @@ fad8ec9a-568c-49c4-8d31-229724d07b5b,eery.monster,available,1.8,19.98,medium,low
 1fca26e0-94ee-41cf-9f6d-ebdfc654bb1c,antiblack.monster,available,1.8,19.98,low,low,9,namecheap,,,
 c1501d31-9111-4610-a218-29fbc25af448,linnaeus.monster,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 05:24
 fc61c6c5-43d7-43b6-a426-92b529625cde,kilogramme.monster,available,1.99,,medium,low,10,name.com,,,
+132e5176-7b9d-4dbc-9929-b674507b09f2,prisons.monster,available,1.18,13.97,medium,low,7,spaceship,,,29/09/2026 11:25
 ca778ace-6ade-449e-9019-c843a96ff066,pinned.monster,available,1.18,13.97,medium,low,6,spaceship,,,28/09/2026 05:02
-45bb6224-c93e-4243-998e-5afd52749f0a,weed.monster,resell,,,high,low,4,"NameSilo, LLC",01/04/2019 13:59,01/04/2027 23:59,26/09/2026 10:06
+45bb6224-c93e-4243-998e-5afd52749f0a,weed.monster,resell,,,high,medium,4,"NameSilo, LLC",01/04/2019 13:59,01/04/2027 23:59,29/09/2026 16:35
 61a1da4a-4735-41cd-896e-b356276249ac,meatless.monster,available,1.8,19.98,medium,low,8,namecheap,,,24/08/2026 18:33
 5f8cab64-89b8-423d-9576-8ed42ae9ea6a,warmed.monster,available,1.5,21.98,high,low,6,namecheap,,,13/09/2026 08:22
-47998d56-05a6-4d30-aaa0-714530900d48,outing.monster,available,1.99,,high,low,6,name.com,,,
+47998d56-05a6-4d30-aaa0-714530900d48,outing.monster,available,1.99,14.45,high,low,6,dynadot,,,29/09/2026 18:23
 838053d8-7e9d-4e9c-8a0b-f0753c22c351,jimmie.monster,available,1.18,13.97,medium,low,6,spaceship,,,28/09/2026 17:18
 101a9abe-74a8-4fd8-9351-d890e290e214,joint.monster,available,1.5,21.98,high,low,5,namecheap,,,22/09/2026 08:50
+746ba2d5-091d-4331-a7f2-c938415b795d,josie.monster,available,1.99,17.29,high,low,5,namesilo,,,29/09/2026 21:56
 5bcc43e4-c070-4f8e-8163-a8e5cf829820,appointed.monster,available,1.8,19.98,high,low,9,namecheap,,,06/08/2026 07:21
 ce8b4d15-16ae-49ce-bd28-f24312d0cd39,moral.monster,available,1.5,21.98,high,low,5,namecheap,,,25/09/2026 21:40
 8cd606a7-c380-490c-b080-d95061fdbe85,misguided.monster,available,1.8,19.98,medium,low,9,namecheap,,,21/08/2026 18:57
 b1edf9b4-9e5a-47d6-9af2-5701ab765633,oaxaca.monster,available,1.18,13.97,high,low,6,spaceship,,,28/09/2026 06:30
-158a1dcf-96aa-4f59-8f87-0846d427642e,investing.monster,available,1.18,13.97,high,low,9,spaceship,,,28/09/2026 02:40
+158a1dcf-96aa-4f59-8f87-0846d427642e,investing.monster,available,0.99,25.99,high,low,9,godaddy,,,30/09/2026 01:22
 8baff9c9-c3ed-4603-ac69-748c715d285c,hottest.monster,available,12.3,10.2,medium,low,7,cloudflare,,,28/09/2026 13:20
 b4da8719-92dc-4a76-b24a-f3016384f1da,slew.monster,available,1.8,19.98,high,low,4,namecheap,,,25/08/2026 00:42
 daf7cd42-c6c0-47f4-9996-6967052ba975,uptight.monster,available,1.8,19.98,high,low,7,namecheap,,,15/08/2026 09:30
 c1641020-0ef9-4e59-ab65-787b0c2dec37,refusing.monster,available,1.99,17.29,low,low,8,namesilo,,,17/09/2026 15:40
 6e9dbed7-090a-46e2-a027-324e9597b1fa,tantalize.monster,available,1.5,21.98,medium,low,9,namecheap,,,21/09/2026 19:52
 cfb0d0c5-32d5-42c7-8cf2-feafb8679d73,slav.monster,available,1.5,21.98,high,low,4,namecheap,,,10/09/2026 10:28
+729e0234-e390-4a02-828b-3d7004b6d3d9,multilingual.monster,available,1.18,13.97,high,low,12,spaceship,,,29/09/2026 20:52
 31a55d75-b827-47c8-97eb-ae54ee70e8a8,velocities.monster,available,1.99,17.29,medium,low,10,namesilo,,,18/09/2026 19:40
 64405a4f-cdfb-4447-b12c-e352af95c512,aureole.monster,available,1.99,20.99,high,low,7,name.com,,,21/09/2026 04:18
 a4555c40-4c2c-4cf3-b71b-7f72227911c9,academy.monster,resell,,,high,low,7,"Spaceship, Inc.",17/01/2026 15:57,17/01/2027 23:59,26/09/2026 01:19
 cb7567b2-3e83-47ae-b28f-7cd1d32e504d,octet.monster,available,1.8,19.98,high,low,5,namecheap,,,
+5d13e22a-966c-49cc-8f40-12466a76325d,marne.monster,available,12.3,10.2,medium,low,5,cloudflare,,,29/09/2026 15:38
+a1843bb0-a167-4bb7-8c70-03030142e6e6,persuasion.monster,available,1.18,13.97,high,low,10,spaceship,,,30/09/2026 02:24
 1924671d-f6d7-44cd-9fef-043bb3613ebb,declare.monster,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 16:32
 7b730b2e-3ac1-49cb-a27e-61a69518e09c,plagued.monster,available,12.3,10.2,medium,low,7,cloudflare,,,29/09/2026 03:23
-988054ec-3cd2-42ad-8dde-ea87c235f0a9,candle.monster,resell,,,high,low,6,"Spaceship, Inc.",11/08/2026 20:52,11/08/2027 23:59,26/09/2026 04:44
-c61896ed-bb39-40ab-9ed9-cf84a0c0d5db,leiden.monster,available,1.99,17.29,medium,low,6,namesilo,,,25/09/2026 23:25
+988054ec-3cd2-42ad-8dde-ea87c235f0a9,candle.monster,resell,,,high,low,6,"Spaceship, Inc.",11/08/2026 20:52,11/08/2027 23:59,29/09/2026 06:35
+c61896ed-bb39-40ab-9ed9-cf84a0c0d5db,leiden.monster,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 23:25
 9c3a0c17-6be9-4b48-bbc5-87646925536f,patientcare.monster,available,1.99,,high,low,11,name.com,,,
+06d79efe-f542-456c-bff2-d209c9a38af1,penthouse.monster,available,12.3,10.2,high,low,9,cloudflare,,,29/09/2026 07:51
 db1f188c-176f-4f04-bbfd-6918d5d822a4,anatomic.monster,available,1.8,19.98,medium,low,8,namecheap,,,
 627ad580-8fab-4060-be88-e0de7268f5a4,guiding.monster,available,1.8,19.98,high,low,7,namecheap,,,14/08/2026 08:49
 028f7b00-11e3-4357-81b5-5c15a2244ecc,steriliser.monster,available,1.99,17.29,medium,low,10,namesilo,,,21/09/2026 06:06
 8bef2933-8545-47f0-9b46-50a68aa588e3,egoistic.monster,available,1.8,19.98,medium,low,8,namecheap,,,15/08/2026 18:54
 ae6dc181-f39f-479b-94e2-a078535c2973,avignon.monster,available,1.5,21.98,high,low,7,namecheap,,,21/09/2026 09:35
 c8b6421b-ad42-496f-9346-bb210a0f61ef,vatic.monster,available,1.8,19.98,low,low,5,namecheap,,,14/08/2026 13:52
+0d78bb6d-88e1-4cb9-8e71-c5d22f84fac5,architectural.monster,available,1.5,21.98,medium,low,13,namecheap,,,29/09/2026 08:50
 a98bee49-55ec-42b2-9e0e-a8f386ae24e6,shakable.monster,available,1.5,21.98,medium,low,8,namecheap,,,10/09/2026 05:32
 666e47f6-938a-4efc-bb17-7a1df0ff82c8,mistakes.monster,available,1.5,21.98,medium,low,8,namecheap,,,16/09/2026 10:20
 9075ab8e-a828-4274-bb6a-267701c66226,furthest.monster,available,1.99,17.29,medium,low,8,namesilo,,,24/09/2026 17:07
@@ -335,13 +365,14 @@ edd6e9f3-f631-457f-8288-c6c888e84486,aries.monster,available,1.5,21.98,high,low,
 54e0ed08-b95f-445b-ba18-ae92be6aa054,sutton.monster,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 16:50
 814ea6d8-2566-4721-b32c-1307216717eb,doughy.monster,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 17:03
 7be971a7-fea3-413a-9dda-7e397993e11a,unsecured.monster,available,1.5,21.98,medium,low,9,namecheap,,,12/09/2026 01:41
+124168e3-6497-422f-ae16-7ab02568c7be,fina.monster,available,1.99,17.29,high,low,4,namesilo,,,29/09/2026 14:46
 2fef3476-d8e6-4562-9afd-e9ca1264ffe8,enlisted.monster,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 22:48
 1f867b36-ff46-4dee-a1fb-043ad5bd5c0e,operable.monster,available,1.5,21.98,medium,low,8,namecheap,,,04/09/2026 16:20
-980f3d29-ae8e-4b03-8f91-a928efbdbcb8,artemia.monster,available,1.5,21.98,medium,low,7,namecheap,,,20/09/2026 10:09
+980f3d29-ae8e-4b03-8f91-a928efbdbcb8,artemia.monster,available,1.5,21.98,high,low,7,namecheap,,,20/09/2026 10:09
 70d63b5c-35ef-46c7-8224-1ef5ff164293,ambiguous.monster,available,1.8,19.98,high,low,9,namecheap,,,
 6c4ffeb0-8fe3-4519-aba5-494d5c58a5e3,beauteous.monster,available,1.8,19.98,medium,low,9,namecheap,,,09/08/2026 05:58
 92670b56-fee7-4417-8f78-ec07ab34d03e,sinewy.monster,available,1.8,19.98,medium,low,6,namecheap,,,11/08/2026 02:52
-599daa5b-9690-4095-8802-d76966a44a0e,anson.monster,available,1.5,21.98,medium,low,5,namecheap,,,28/09/2026 07:57
+599daa5b-9690-4095-8802-d76966a44a0e,anson.monster,available,1.5,21.98,high,low,5,namecheap,,,28/09/2026 07:57
 f068f2c5-a475-494f-9ec8-93ac8bafe8a2,thurston.monster,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 04:06
 48477d6f-fc39-4bf5-8772-6b26bb3fce85,biased.monster,available,1.8,19.98,medium,low,6,namecheap,,,09/08/2026 18:36
 497ce5ea-f22d-4f46-958e-0d497d9e4a11,riddle.monster,available,1.5,21.98,high,low,6,namecheap,,,24/09/2026 08:02
@@ -350,12 +381,13 @@ f068f2c5-a475-494f-9ec8-93ac8bafe8a2,thurston.monster,available,1.99,17.29,mediu
 adf1140e-faee-4281-a330-219028b367ec,francs.monster,available,12.3,10.2,low,low,6,cloudflare,,,28/09/2026 13:09
 317b9159-6508-4290-a8a9-aed7884d4cce,tentacular.monster,available,1.5,21.98,medium,low,10,namecheap,,,11/09/2026 11:35
 8220140c-3d35-4bac-8ec7-962758692c70,curves.monster,available,1.99,15.75,medium,low,6,namesilo,,,
+7fbd49ad-9cc6-4cf2-a7d9-43efa33c2193,physicist.monster,available,1.18,13.97,high,low,9,spaceship,,,29/09/2026 19:58
 b80e493a-4ebb-43d3-b9c3-4bf0e29895e3,vagal.monster,available,1.5,21.98,medium,low,5,namecheap,,,08/09/2026 22:07
 904632fd-d1fd-4c72-9a2e-f175bab5ef0a,kline.monster,available,1.99,17.29,high,medium,5,namesilo,,,28/09/2026 09:48
 49a07668-b570-4ba6-8f2e-7ec5ff16545e,bellini.monster,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 06:15
 d179a809-d469-4612-a9a7-847471328962,fixture.monster,available,1.5,21.98,high,medium,7,namecheap,,,09/09/2026 13:04
 33ff95af-19b8-4e25-945d-b0d22edafa68,abyssinian.monster,available,1.5,21.98,high,low,10,namecheap,,,16/09/2026 19:54
-b7946f09-e80a-4b0c-ac70-7daed6d47749,lock.monster,resell,,,high,low,4,"Spaceship, Inc.",02/05/2026 21:24,02/05/2027 23:59,26/09/2026 07:17
+b7946f09-e80a-4b0c-ac70-7daed6d47749,lock.monster,resell,,,high,low,4,"Spaceship, Inc.",02/05/2026 21:24,02/05/2027 23:59,29/09/2026 23:33
 5fcaa7cb-21a5-402c-80c2-b39fb5703414,garry.monster,available,1.99,17.29,high,low,5,namesilo,,,28/09/2026 03:42
 bc7c2ff0-8762-47f1-a76f-3075c496a61f,thrice.monster,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 08:59
 ac0edcea-7744-404b-a20e-1e830dddc62f,purging.monster,available,1.5,21.98,high,medium,7,namecheap,,,09/09/2026 06:17
@@ -364,47 +396,50 @@ f76bef9c-20b9-4670-9bf7-28d09b713e2f,autodidact.monster,available,1.99,17.29,hig
 66637214-6971-46a8-ac56-540766cd4188,amaze.monster,available,1.99,17.29,high,low,5,namesilo,,,21/09/2026 17:36
 8be9afa3-c75a-42f6-a804-5edb05177da4,roads.monster,available,1.99,,high,low,5,name.com,,,
 287f8368-8d66-4f38-bd38-b98eaf668ab0,balancing.monster,available,1.5,21.98,high,low,9,namecheap,,,21/09/2026 20:56
-ea4a9305-8544-4181-bb02-0d8f94eb990c,fueled.monster,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 17:37
+ea4a9305-8544-4181-bb02-0d8f94eb990c,fueled.monster,available,1.8,19.98,high,low,6,namecheap,,,18/08/2026 17:37
 32013fc8-0ac0-4866-adaa-aceda2fbeafe,abatis.monster,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 14:12
 817dc875-89c3-4b3e-907f-5eb44a8f9a77,archery.monster,available,1.99,17.29,high,low,7,namesilo,,,20/09/2026 02:00
+454befdc-642b-4be3-a145-1b62dc0a2a55,mes.monster,available,1.18,13.97,high,low,3,spaceship,,,29/09/2026 16:28
 b4c73481-eec1-4c4d-b954-7f8a00f0521a,sleeps.monster,available,1.18,13.97,medium,low,6,spaceship,,,28/09/2026 13:22
-70cd36a1-29e8-452c-b917-f8e2d7ea5d3d,flammable.monster,available,1.8,19.98,medium,low,9,namecheap,,,18/08/2026 06:32
+70cd36a1-29e8-452c-b917-f8e2d7ea5d3d,flammable.monster,available,1.8,19.98,high,low,9,namecheap,,,18/08/2026 06:32
 47f488f9-1246-44b2-9fe7-a65f8f448a98,notecase.monster,available,1.99,17.29,medium,low,8,namesilo,,,23/09/2026 16:18
 cc5bd771-11b5-4ed2-b022-936120224239,barky.monster,available,1.8,19.98,medium,low,5,namecheap,,,08/08/2026 19:46
 aef6bbe5-6f9a-4308-a233-d3a24e1a8457,tractors.monster,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 06:24
 6ed4f6ae-e7ae-4b62-9ffe-ec38262e2c1a,divisions.monster,available,1.99,17.29,high,low,9,namesilo,,,29/09/2026 04:40
 60d004fb-ec74-4f0f-9c63-510563d361d0,recognizable.monster,available,1.99,,high,low,12,name.com,,,
-73d6a835-c2cb-4516-9008-d4c0a7b6926b,acquiesce.monster,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 16:11
-2641a321-d110-41ed-abfa-57e92f08c1f2,selfaware.monster,available,1.5,21.98,medium,low,10,namecheap,,,10/09/2026 02:00
+73d6a835-c2cb-4516-9008-d4c0a7b6926b,acquiesce.monster,available,1.99,17.29,high,low,9,namesilo,,,20/09/2026 16:11
+a3e42ac8-9ecf-4685-afda-1f898a54422d,screened.monster,available,1.18,13.97,medium,low,8,spaceship,,,30/09/2026 00:45
+e6f08ba8-7d40-48a6-a292-b645ae727720,squirrels.monster,available,1.99,14.45,medium,low,9,dynadot,,,29/09/2026 23:34
+2641a321-d110-41ed-abfa-57e92f08c1f2,selfaware.monster,available,1.5,21.98,high,low,10,namecheap,,,10/09/2026 02:00
 63c98593-1e2b-43d0-8e3e-23c6e2dbb883,davison.monster,available,1.18,13.97,high,low,7,spaceship,,,28/09/2026 04:10
 86dbdfd8-b5dc-4294-b9ff-b4cc4e0feb79,allopathy.monster,available,1.99,17.29,medium,low,9,namesilo,,,18/09/2026 12:00
-f425870c-bf92-4157-80b0-37f6c96b689d,prague.monster,available,12.3,10.2,medium,low,6,cloudflare,,,29/09/2026 00:35
+f425870c-bf92-4157-80b0-37f6c96b689d,prague.monster,available,12.3,10.2,high,low,6,cloudflare,,,29/09/2026 00:35
 c6319125-31a1-4aa6-b1eb-b093d36491c3,startling.monster,available,1.5,21.98,medium,low,9,namecheap,,,10/09/2026 19:02
 b83d8512-2ddb-4f6d-bde6-77de9e47a2bf,cocksucker.monster,available,1.8,19.98,medium,low,10,namecheap,,,08/08/2026 23:29
 7b41134e-cac4-41b3-85c8-7a3fdddc1010,purity.monster,available,12.3,10.2,high,low,6,cloudflare,,,28/09/2026 15:09
 b97ebc20-c5cd-4300-aecf-d0285fc5de39,arras.monster,available,1.99,17.29,medium,low,5,namesilo,,,20/09/2026 08:49
 d5af6560-6bca-41f2-9d81-0745e24578b1,blows.monster,available,1.99,17.29,medium,low,5,namesilo,,,25/09/2026 16:53
-34e8dd64-0abe-4f85-8803-1a2d57922e9a,chanukkah.monster,available,1.99,15.75,medium,low,9,namesilo,,,
+34e8dd64-0abe-4f85-8803-1a2d57922e9a,chanukkah.monster,available,1.99,14.45,medium,low,9,dynadot,,,29/09/2026 08:11
 f61e1509-d01c-48c4-9f78-0102d354353d,reassured.monster,available,1.5,21.98,high,low,9,namecheap,,,09/09/2026 11:12
 beee2764-9b86-40f8-b047-637ed45a3a7f,bale.monster,available,1.99,17.29,medium,low,4,namesilo,,,21/09/2026 21:49
 dc324829-5a9d-49bf-8e43-488ab77c72d2,satisfying.monster,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 03:47
 31d9ff00-fba8-4ab6-87d2-c8b3e966b86d,impressed.monster,available,1.99,,high,low,9,name.com,,,
 e3202a52-ce9d-4218-8b07-68b2efd06a7b,bawl.monster,available,1.99,17.29,medium,low,4,namesilo,,,23/09/2026 06:25
-680b97e3-7c46-4bfd-a84e-5662078b4b84,nominee.monster,available,1.99,,high,low,7,name.com,,,
+680b97e3-7c46-4bfd-a84e-5662078b4b84,nominee.monster,available,1.18,13.97,high,low,7,spaceship,,,29/09/2026 06:17
 b56d0471-e7de-4cbf-b995-70435b11903e,unedited.monster,available,1.5,21.98,medium,low,8,namecheap,,,12/09/2026 08:51
 b49043ae-d28e-4a56-ba64-011cefc017f2,loath.monster,available,1.8,19.98,medium,low,5,namecheap,,,24/08/2026 08:17
 c7f4039d-f6c1-4446-84b7-84a0f0a3198a,ruthenium.monster,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 23:08
 cc45ef3c-51f2-429f-8e49-294329a8a4a5,canceled.monster,available,1.99,17.29,medium,low,8,namesilo,,,27/09/2026 22:41
 8810f43d-5769-4ac5-be73-c346c3826291,obdurate.monster,available,1.8,19.98,medium,low,8,namecheap,,,13/08/2026 12:15
-78d76d73-32d7-4f84-b8ba-41c87e3da90a,tasselled.monster,available,1.5,21.98,medium,low,9,namecheap,,,11/09/2026 08:58
+78d76d73-32d7-4f84-b8ba-41c87e3da90a,tasselled.monster,available,1.5,21.98,high,low,9,namecheap,,,11/09/2026 08:58
 7575e397-dd36-4165-a10a-42d2593585a5,floods.monster,available,1.99,20.99,low,low,6,name.com,,,18/09/2026 19:03
 4cae7d9f-f1d7-4bb0-b7ec-d76bc6acda8e,analogist.monster,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 01:52
-8e94b70f-244a-4182-b781-723b7f76f029,merit.monster,available,1.99,,high,low,5,name.com,,,
 68afe726-53c6-4539-902e-55755a6572d5,altissimo.monster,available,1.8,19.98,high,low,9,namecheap,,,
 a3a844a8-73c5-4d01-be18-88ba0ca0e274,provoked.monster,available,1.5,21.98,medium,low,8,namecheap,,,09/09/2026 04:38
 bab397fc-261f-4b5c-be1a-cc2f5d873aa8,dachshund.monster,available,1.99,17.29,high,low,9,namesilo,,,21/09/2026 17:04
 f24463ac-3563-4f66-8ac5-a93ac881194f,mousey.monster,available,1.8,19.98,medium,low,6,namecheap,,,25/08/2026 08:44
 b6666ea5-d04e-4f79-9cd6-53247bbfba02,pronounce.monster,available,1.99,,high,low,9,name.com,,,
+d5beb196-718c-4a2e-b613-f6b48a47e68e,exon.monster,available,12.3,10.2,medium,low,4,cloudflare,,,30/09/2026 01:04
 4708696e-a38f-4994-a874-73c19439868c,gamey.monster,available,1.8,19.98,medium,low,5,namecheap,,,18/08/2026 19:57
 9d086295-b125-4fdf-87bb-449cfcfea693,skewed.monster,available,1.5,21.98,medium,low,6,namecheap,,,10/09/2026 09:28
 11be719c-ae9c-4939-90e1-05953d41be9f,assemble.monster,available,1.18,13.97,high,low,8,spaceship,,,28/09/2026 09:53
@@ -418,6 +453,7 @@ fcb4fc57-6d08-4b03-8f6d-16fe867295e6,successive.monster,available,1.5,21.98,high
 50e12652-2332-4f03-8e79-ea302c649397,incorporate.monster,available,1.99,14.45,high,low,11,dynadot,,,29/09/2026 02:35
 ede71de4-50ee-43c5-8375-248dd8ed9bd2,anklebone.monster,available,1.5,21.98,medium,low,9,namecheap,,,19/09/2026 09:43
 b3b1cbaf-46b3-477b-9b04-c9ab7d5b016f,yemeni.monster,available,1.5,21.98,high,low,6,namecheap,,,13/09/2026 14:34
+2481c4af-2556-46ae-b268-8770d108e34c,satin.monster,available,1.99,17.29,high,low,5,namesilo,,,30/09/2026 02:46
 7a9f0fb3-8587-4731-8321-b25b920572af,cantonal.monster,available,1.8,19.98,medium,low,8,namecheap,,,11/08/2026 17:44
 4e1d6a7f-c349-497b-b8ab-5949cf029a86,ammonium.monster,available,1.5,21.98,high,low,8,namecheap,,,18/09/2026 22:10
 97a6f4bc-512a-4727-b047-6ee0b59609f8,sunlit.monster,available,1.5,21.98,high,low,6,namecheap,,,11/09/2026 01:59
@@ -425,6 +461,7 @@ b3b1cbaf-46b3-477b-9b04-c9ab7d5b016f,yemeni.monster,available,1.5,21.98,high,low
 1c43ea7f-cfda-47e0-a266-02beaf000db2,reborn.monster,resell,,,high,low,6,"Spaceship, Inc.",16/06/2023 00:06,16/06/2027 23:59,26/09/2026 08:31
 82104a37-6d92-4179-827e-2619b8202384,dimorphic.monster,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 08:09
 d42495c5-2e5d-4e1e-a1df-304350942371,anomy.monster,available,1.99,17.29,medium,low,5,namesilo,,,19/09/2026 11:32
+51947277-64e5-408c-8e56-e23bd756d74e,astm.monster,available,1.99,17.29,medium,low,4,namesilo,,,29/09/2026 15:16
 d5ab166f-0e1c-41cd-8db1-7626d212a0dc,considerable.monster,available,1.99,17.29,high,low,12,namesilo,,,28/09/2026 07:04
 4401956a-86b8-4b06-ab65-1ff5bd27d984,statuesque.monster,available,1.8,19.98,high,low,10,namecheap,,,22/08/2026 14:32
 1ecb56e8-6d47-447d-87fd-25a0edd232e1,toasted.monster,available,1.5,21.98,high,low,7,namecheap,,,11/09/2026 16:35
@@ -435,18 +472,23 @@ adbe4ed9-068e-4fff-9cdc-574683ad3cf9,calced.monster,available,1.8,19.98,medium,l
 9c28a252-934e-479d-b7d8-eeca7f36f8ed,utica.monster,available,1.5,21.98,high,low,5,namecheap,,,27/09/2026 16:08
 6becf766-f434-41c9-8db5-e71206b7d842,handicapped.monster,available,1.18,13.97,medium,low,11,spaceship,,,29/09/2026 03:14
 fba8cdf5-8e4d-4255-ba20-53ab682e9d33,bikini.monster,resell,,,high,low,6,Atom.com Domains LLC,10/09/2026 21:27,10/09/2027 23:59,26/09/2026 04:25
+e5b19230-995f-4d0f-86e3-f927002a1c8e,revoked.monster,available,1.99,17.29,medium,low,7,namesilo,,,30/09/2026 00:45
+a4f8a886-6fba-4dd9-9783-208eea1ee934,sybil.monster,available,1.99,14.45,high,low,5,dynadot,,,29/09/2026 14:56
 eb074f89-34f7-4cf2-ad01-ee04aa5850ed,alcoholic.monster,available,1.8,19.98,high,low,9,namecheap,,,
 f8f9e204-8192-425f-8b21-cf926d1456d0,clearly.monster,available,1.99,17.29,high,low,7,namesilo,,,28/09/2026 13:55
+ef07ca5d-5cb9-4baa-9fe3-e56db423c860,clarissa.monster,available,12.3,10.2,medium,low,8,cloudflare,,,29/09/2026 21:24
 343cbbcd-e8c7-46be-a575-029de312d5eb,greet.monster,available,1.99,15.75,high,low,5,namesilo,,,
-ba5aadcf-a2a7-4036-b472-6ef224e62f2c,mailed.monster,available,1.8,19.98,medium,low,6,namecheap,,,24/08/2026 13:18
+f3e061d7-0ea9-4565-bd1c-cafc83d122c0,groton.monster,available,1.18,13.97,medium,low,6,spaceship,,,29/09/2026 15:07
+ba5aadcf-a2a7-4036-b472-6ef224e62f2c,mailed.monster,available,1.8,19.98,high,low,6,namecheap,,,24/08/2026 13:18
 37348bf3-aa04-4d58-8793-af252f1cd54a,daydreams.monster,available,1.5,21.98,high,low,9,namecheap,,,19/09/2026 21:17
 95366e42-cd31-4bae-a2ea-179f6841b39f,bimetal.monster,available,1.8,19.98,high,low,7,namecheap,,,09/08/2026 22:52
 e8f16c09-60e0-4c93-9e07-f6b4b5cf965f,summery.monster,available,1.5,21.98,high,low,7,namecheap,,,11/09/2026 01:38
 489ca791-ce23-477c-9d02-52f10cd851fb,salazar.monster,available,1.18,13.97,medium,low,7,spaceship,,,28/09/2026 12:15
 54568df4-c4aa-4920-a235-a43c29692aa6,jacques.monster,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 13:47
-283d3a54-183f-4abb-835e-a22feb54be48,doubling.monster,available,1.99,15.75,high,low,8,namesilo,,,
+283d3a54-183f-4abb-835e-a22feb54be48,doubling.monster,available,1.18,13.97,high,low,8,spaceship,,,29/09/2026 16:36
 d3fb21f6-fb09-4704-a20c-4bdc2b53b132,schumann.monster,available,1.18,13.97,high,low,8,spaceship,,,28/09/2026 05:27
 cd16e6bc-40a2-400f-8ac0-b699b3d55a26,beira.monster,available,1.99,17.29,medium,low,5,namesilo,,,23/09/2026 04:20
+d1ab1426-8097-45a8-8ac7-403f39e62c03,guessed.monster,available,1.18,13.97,low,low,7,spaceship,,,29/09/2026 11:03
 c0ae31f0-946c-4e46-97b8-128b5bb427c9,anatoxin.monster,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 03:34
 c87dd879-62d3-4d25-9b17-e28f12fedd36,sorely.monster,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 05:13
 d4f1028b-9910-4422-873d-221a0362b53b,comedies.monster,available,1.99,17.29,high,low,8,namesilo,,,21/09/2026 01:31
@@ -454,6 +496,7 @@ d4f1028b-9910-4422-873d-221a0362b53b,comedies.monster,available,1.99,17.29,high,
 71831afe-0a7e-495e-9819-1c3acc2fc44a,safe.monster,resell,1.99,,high,medium,4,name.com,,,27/09/2026 17:44
 99224ec1-0e66-47c8-8eb1-400b348f8932,lenox.monster,available,1.99,17.29,medium,low,5,namesilo,,,28/09/2026 22:22
 6bb7743f-3f14-4369-b853-85e358a6915e,forgetting.monster,available,1.99,15.75,high,low,10,namesilo,,,
+63ea646f-bf1b-4cf2-8e21-bf546b05de6a,sibling.monster,available,12.3,10.2,high,low,7,cloudflare,,,29/09/2026 20:18
 d7dc225a-bdcc-4245-bff0-03afd52b2024,gross.monster,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 13:05
 3246b3b2-d680-4539-889d-7b6d77f26486,kissing.monster,available,1.5,21.98,high,low,7,namecheap,,,24/09/2026 12:56
 b2b484f3-9810-4f62-a418-3e7e0172b184,mismatched.monster,available,1.8,19.98,medium,low,10,namecheap,,,25/08/2026 01:36
@@ -467,6 +510,7 @@ cdee6fa9-50b8-4329-a794-27d67cbc1edb,argal.monster,available,1.99,17.29,medium,l
 8b690af4-fe0c-4a7c-96e3-d6559ca55540,bismark.monster,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 09:37
 ea4e9a95-45eb-41bc-a5cf-fa0b5483ed1e,orally.monster,available,1.5,21.98,medium,low,6,namecheap,,,15/09/2026 18:11
 0992dae2-c7bc-402e-a3f1-86d87cfe52ce,forsaking.monster,available,1.5,21.98,medium,low,9,namecheap,,,16/09/2026 13:59
+a544be7c-a382-45c7-a762-cf547c6c53cc,nashua.monster,available,1.99,17.29,medium,low,6,namesilo,,,29/09/2026 22:37
 2538b2ec-7e22-45c6-87b2-8755d84fb4fc,contained.monster,available,1.5,21.98,high,low,9,namecheap,,,23/09/2026 21:42
 e7b4f9ab-e0f8-4ec6-adf9-792296d78f4b,attempted.monster,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 15:12
 58c7f486-c0a2-4021-ba2e-285b9e17d13e,notifiable.monster,available,1.5,21.98,medium,low,10,namecheap,,,03/09/2026 22:10
@@ -476,33 +520,37 @@ b94ac1f1-a3cf-4e44-aa8e-251749439bb4,anchorman.monster,available,1.99,17.29,high
 dfd67c97-b521-4a3d-bb80-8ece3c413680,sharply.monster,available,1.5,21.98,medium,low,7,namecheap,,,27/09/2026 20:32
 af33e89c-c420-4e16-acfc-a15e8bf41bce,tracked.monster,available,12.3,10.2,high,low,7,cloudflare,,,28/09/2026 09:27
 27367daa-e0e8-48d8-a49c-d258e7ce74b7,derogative.monster,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 03:10
-ab2dcb3d-48c7-41c0-a22a-db4d4cac8058,diminuendo.monster,available,1.8,19.98,medium,low,10,namecheap,,,13/08/2026 22:19
-40771a1d-0d65-41db-9d9a-fe4fcdde01f5,cranial.monster,available,1.8,19.98,medium,low,7,namecheap,,,13/08/2026 04:49
+ab2dcb3d-48c7-41c0-a22a-db4d4cac8058,diminuendo.monster,available,1.8,19.98,high,low,10,namecheap,,,13/08/2026 22:19
+40771a1d-0d65-41db-9d9a-fe4fcdde01f5,cranial.monster,available,1.8,19.98,high,low,7,namecheap,,,13/08/2026 04:49
+35f13f5a-b9d5-4bd7-aefb-f88824fc604e,blouse.monster,available,1.5,21.98,high,low,6,namecheap,,,29/09/2026 06:07
 30e5a3a7-2e05-4bcb-accf-40d6a99c8578,weightless.monster,available,1.5,21.98,high,low,10,namecheap,,,13/09/2026 10:09
 401f34cc-84d0-4ec5-b6f3-fe494fdeb459,regulated.monster,available,1.5,21.98,high,low,9,namecheap,,,09/09/2026 13:06
 0f07fcac-c00d-4611-a0ee-604b5460d609,scrawny.monster,available,1.5,21.98,medium,low,7,namecheap,,,09/09/2026 23:42
-e6c8a78f-53db-468e-a59f-21a06e76de35,tasseled.monster,available,1.5,21.98,medium,low,8,namecheap,,,11/09/2026 08:52
+e6c8a78f-53db-468e-a59f-21a06e76de35,tasseled.monster,available,1.5,21.98,high,low,8,namecheap,,,11/09/2026 08:52
 a664cb04-2be9-47d0-91e6-dfe45a35df43,soled.monster,available,1.5,21.98,medium,low,5,namecheap,,,10/09/2026 13:35
 9c2b6b03-6d79-4d9e-bed2-1c5e16683f44,gambling.monster,resell,,,high,medium,8,,,,27/09/2026 04:09
-b91a0754-063e-436a-ab23-58cb79a8e4a8,odorless.monster,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 06:02
+b91a0754-063e-436a-ab23-58cb79a8e4a8,odorless.monster,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 06:02
 ceeb1b7e-828e-4b10-a169-308184641581,convolute.monster,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 23:57
 936ec3a3-4df5-43d2-aa0b-f348bb452ff6,alton.monster,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 07:13
 def9fe73-44de-40d2-8ed0-007105a8c276,uterine.monster,available,1.5,21.98,medium,low,7,namecheap,,,13/09/2026 00:02
 2827eb5e-afbc-4e0f-9dbb-8def31d5302f,effortless.monster,available,1.8,19.98,high,low,10,namecheap,,,15/08/2026 16:21
 66f706c0-3091-469f-b644-76a996880cd4,netflix.monster,available,1.99,17.29,high,high,7,namesilo,,,25/09/2026 12:20
-cfb104ca-4747-4dab-bf03-63abed3806d2,balloonist.monster,available,1.99,17.29,medium,low,10,namesilo,,,21/09/2026 23:14
+cfb104ca-4747-4dab-bf03-63abed3806d2,balloonist.monster,available,1.99,17.29,high,low,10,namesilo,,,21/09/2026 23:14
 0ca33c70-982c-4b1e-8a00-98cc232c9e90,haig.monster,available,12.3,10.2,medium,low,4,cloudflare,,,28/09/2026 12:12
+ad862d4c-3c3f-4040-8c9b-9b9a87a8d259,samuels.monster,available,1.99,17.29,medium,low,7,namesilo,,,29/09/2026 09:53
 9cb11a22-a9f2-4361-8157-693e92abe977,pits.monster,available,12.3,10.2,low,low,4,cloudflare,,,28/09/2026 23:33
-698c1335-0985-419c-b0a1-8f145480a8be,mechanized.monster,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 16:26
+698c1335-0985-419c-b0a1-8f145480a8be,mechanized.monster,available,1.99,17.29,high,low,10,namesilo,,,19/09/2026 16:26
 8f8704f0-5399-4221-9c60-2eea22788d8e,transform.monster,resell,,,high,low,9,,,,28/09/2026 20:53
+b690152c-1551-43dc-8853-8ea59015f0be,inhibitor.monster,available,12.3,10.2,high,low,9,cloudflare,,,29/09/2026 19:19
 ffc8ec7a-a9b5-4e53-b6cd-4840d167aba6,unsalted.monster,available,1.5,21.98,medium,low,8,namecheap,,,12/09/2026 18:45
 7419f33a-83fc-4393-89a3-6ffaf9d83873,phobic.monster,available,1.5,21.98,medium,low,6,namecheap,,,08/09/2026 18:56
+e1a620ff-cd29-45da-83ee-082efc55c05c,copley.monster,available,1.5,21.98,medium,low,6,namecheap,,,29/09/2026 11:58
 70284e76-517a-4c4c-8bd5-ea578548acd7,merited.monster,available,1.8,19.98,medium,low,7,namecheap,,,14/08/2026 03:22
 477ba0c4-5f4b-4437-991a-c7ffaa41c688,enwrapped.monster,available,1.8,19.98,medium,low,9,namecheap,,,
 a4573968-117b-4f54-bad1-2b888ce7599a,passenger.monster,available,1.5,21.98,high,low,9,namecheap,,,27/09/2026 04:56
 b43085f0-e853-452d-a897-9631403bceb8,unmediated.monster,available,1.5,21.98,medium,low,10,namecheap,,,12/09/2026 15:32
-b88fab82-7c48-425a-9c05-b116bb57b927,choc.monster,available,1.99,15.75,high,low,4,namesilo,,,
-3b27d31e-6cbe-4527-b77d-5ba20273ac5d,forested.monster,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 11:43
+b88fab82-7c48-425a-9c05-b116bb57b927,choc.monster,available,1.99,17.29,high,low,4,namesilo,,,29/09/2026 08:48
+3b27d31e-6cbe-4527-b77d-5ba20273ac5d,forested.monster,available,1.8,19.98,high,low,8,namecheap,,,18/08/2026 11:43
 173aed85-b86a-4280-9659-e4b9cc9f8dfe,arginine.monster,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 04:24
 6d4d8d17-546c-4a7d-9516-f9fa3aaf55fe,qin.monster,available,1.54,14.21,medium,low,3,porkbun,,,28/09/2026 13:41
 f585a73b-8694-462c-bf4e-9fec1f011da5,annexa.monster,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 09:06
@@ -514,17 +562,20 @@ b730847a-1397-4e6d-aa44-229856756d47,dictation.monster,available,1.99,17.29,high
 f27af5cf-95f4-445e-b011-3bf8e7062f4b,antonym.monster,available,1.5,21.98,medium,low,7,namecheap,,,04/09/2026 16:48
 0cb21642-5e83-4510-8cc3-9b7f36d303a9,muslim.monster,resell,,,high,medium,6,"Spaceship, Inc.",17/01/2026 15:57,17/01/2027 23:59,26/09/2026 07:41
 61960218-4386-4105-9992-9fff21e1e9d6,regally.monster,available,1.5,21.98,medium,low,7,namecheap,,,15/09/2026 22:55
-ae4ee693-1c85-4c88-bb9b-b76fbcbe7d80,devotion.monster,available,1.99,15.75,high,low,8,namesilo,,,
+ae4ee693-1c85-4c88-bb9b-b76fbcbe7d80,devotion.monster,available,1.99,17.29,high,low,8,namesilo,,,29/09/2026 14:45
 a07fdffa-1bf5-4251-a076-73f2930afec3,poisson.monster,available,1.99,17.29,medium,low,7,namesilo,,,28/09/2026 11:23
 4d9a625c-ee83-4ce3-85c1-a53840189365,idk.monster,available,1.99,,medium,low,3,name.com,,,
+74aef23e-46a3-46e6-93dc-ff339606497a,manipulation.monster,available,12.3,10.2,high,low,12,cloudflare,,,29/09/2026 10:20
 928374b1-9e51-4d74-b19a-8b626d7a5c76,animate.monster,available,1.99,17.29,high,low,7,namesilo,,,22/09/2026 04:47
 96dfb574-a517-4f60-93d6-8611ac5acab9,acantha.monster,available,1.5,21.98,medium,low,7,namecheap,,,16/09/2026 20:38
 d16406bf-0a64-476b-9cae-621a24732f66,superfamily.monster,available,1.18,13.97,medium,low,11,spaceship,,,29/09/2026 02:59
 a65c7225-168e-4876-879f-3fa580cf781f,polymeric.monster,available,1.5,21.98,medium,low,9,namecheap,,,08/09/2026 23:25
 0a3c3cbe-f120-47b3-b154-1f3abfe0d605,understood.monster,available,1.18,13.97,high,low,10,spaceship,,,28/09/2026 02:13
 a92e9b87-3ea9-40c6-aa7d-4d4715cba1c3,whittier.monster,available,12.3,10.2,medium,low,8,cloudflare,,,28/09/2026 10:10
+6d5f3fa8-6b32-494b-ae96-66b27950584b,adjusting.monster,available,1.18,13.97,high,low,9,spaceship,,,29/09/2026 14:33
 9c237c60-c9d1-4e45-b021-5a7a1c534b68,earthman.monster,available,1.5,21.98,medium,low,8,namecheap,,,11/09/2026 10:45
 27e43328-b2e8-42f7-9a8f-de8a42b67941,forgive.monster,available,1.99,15.75,high,low,7,namesilo,,,
+533ca9f9-c962-488f-a6a4-5ac0d1837185,excite.monster,available,1.99,17.29,high,low,6,namesilo,,,30/09/2026 02:49
 7e95ffed-3ff6-4b86-b626-f90e2da8562f,blackshirt.monster,available,1.5,21.98,medium,low,10,namecheap,,,24/09/2026 03:05
 1e4c7210-e175-4f0b-9e43-5b7981bbc236,chamber.monster,available,1.5,21.98,high,low,7,namecheap,,,22/09/2026 23:10
 8c99794e-06e9-4454-8f22-254de9a0bc71,belarusian.monster,available,1.8,19.98,medium,low,10,namecheap,,,09/08/2026 12:32
@@ -539,7 +590,7 @@ a488deff-a121-4648-9f0c-007b9a8801f0,rocket.monster,resell,,,high,medium,6,"Xiam
 512999fa-3980-4501-9be4-b0f3e0655f54,rko.monster,available,1.18,13.97,medium,low,3,spaceship,,,28/09/2026 21:41
 a5d64363-e9b1-4ade-bbcf-41fb47a588e2,ramp.monster,available,1.99,17.29,high,low,4,namesilo,,,18/09/2026 11:33
 de6aca7d-ca20-491a-87f3-7cee9ee825fd,kevin.monster,resell,,,high,medium,5,"Spaceship, Inc.",17/01/2026 15:57,17/01/2027 23:59,26/09/2026 07:04
-21b1e3a5-cc84-4348-a300-b9156f52929c,neoclassic.monster,available,1.5,21.98,medium,low,10,namecheap,,,03/09/2026 15:21
+21b1e3a5-cc84-4348-a300-b9156f52929c,neoclassic.monster,available,1.5,21.98,high,low,10,namecheap,,,03/09/2026 15:21
 c10bb57d-00ca-4b51-9c37-b3e6bc6bab2e,binoculars.monster,available,1.5,21.98,high,low,10,namecheap,,,23/09/2026 17:37
 3597b4a9-f34b-48f9-8892-bb397709022d,cannily.monster,available,1.5,21.98,medium,low,7,namecheap,,,14/09/2026 05:10
 39bc849a-6143-4a4d-b5fa-3a8c0b42858c,gaussian.monster,available,1.8,19.98,high,low,8,namecheap,,,18/08/2026 20:52
@@ -547,10 +598,12 @@ c10bb57d-00ca-4b51-9c37-b3e6bc6bab2e,binoculars.monster,available,1.5,21.98,high
 6aba7496-0db2-452f-b132-0ab75953990c,chant.monster,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 13:41
 adb8bf2f-9b40-4e35-a904-bdd84f8a1445,athwart.monster,available,1.5,21.98,medium,low,7,namecheap,,,13/09/2026 22:38
 41bf18a5-9aec-4ced-a594-0351c383c62c,shortly.monster,available,1.18,13.97,medium,low,7,spaceship,,,28/09/2026 13:26
-c6f6bbcb-e7e2-4f0c-b183-3f289eac899b,churchman.monster,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 23:29
-d4ff32f5-4951-4fc3-9994-33129d5c141f,wellesley.monster,available,1.99,17.29,medium,low,9,namesilo,,,27/09/2026 08:52
+c6f6bbcb-e7e2-4f0c-b183-3f289eac899b,churchman.monster,available,1.8,19.98,high,low,9,namecheap,,,14/08/2026 23:29
+d4ff32f5-4951-4fc3-9994-33129d5c141f,wellesley.monster,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 08:52
 7fd20217-04d5-4012-9e92-6369489840b8,owned.monster,available,1.99,17.29,high,low,5,namesilo,,,26/09/2026 03:41
+1d1578ff-bce2-4c8a-a082-bf6d169e78ce,prohibition.monster,available,1.99,17.29,medium,low,11,namesilo,,,29/09/2026 15:19
 4d5f2eb2-4599-497a-a920-53d89c37c703,visibly.monster,available,1.5,21.98,medium,low,7,namecheap,,,16/09/2026 11:04
+9df2bb7c-d25f-4850-be51-85caf9949d25,chamberlin.monster,available,12.3,10.2,high,low,10,cloudflare,,,29/09/2026 21:39
 ca2157a3-22cf-4c17-8540-86b5a20dce55,admission.monster,available,1.99,17.29,high,low,9,namesilo,,,16/09/2026 22:12
 22f665ae-13a8-4188-8a25-f431c7428dc3,punched.monster,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 01:53
 f109dbc6-5494-4cfc-b528-bf5ddb82bc7b,thereafter.monster,available,1.99,17.29,high,low,10,namesilo,,,16/09/2026 08:38
@@ -559,7 +612,7 @@ f109dbc6-5494-4cfc-b528-bf5ddb82bc7b,thereafter.monster,available,1.99,17.29,hig
 55739e00-c733-4a0b-9d7e-3675dc441747,pushing.monster,available,1.99,,high,low,7,name.com,,,
 80bdc499-10ee-4c16-82d9-05b67d660838,acarid.monster,available,1.5,21.98,medium,low,6,namecheap,,,16/09/2026 21:26
 e39a25c0-c2d0-41cf-be6e-974223dafd39,haynes.monster,available,1.99,17.29,medium,low,6,namesilo,,,27/09/2026 01:55
-db9588d4-72a0-4a2e-a89a-5c671c61764a,cubitus.monster,available,1.99,20.99,medium,low,7,name.com,,,20/09/2026 11:25
+db9588d4-72a0-4a2e-a89a-5c671c61764a,cubitus.monster,available,1.99,20.99,high,low,7,name.com,,,20/09/2026 11:25
 a3443ff4-89d9-401b-8fc8-b030a8d35d6f,ruinous.monster,available,1.8,19.98,medium,low,7,namecheap,,,10/08/2026 13:28
 02339667-4f18-443f-953a-d9b05c8eaacf,arrays.monster,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 09:17
 8dcb3157-e4a4-43fa-9cf7-b00380e40bb1,antiracist.monster,available,1.99,15.75,high,low,11,namesilo,,,
@@ -579,7 +632,7 @@ a6f0bdf9-0cc0-4ac0-ab03-34b4805f6cee,temerity.monster,available,1.99,17.29,mediu
 dfcaddd9-b8f3-4054-8bab-21617556751a,grabbed.monster,available,1.5,21.98,medium,low,7,namecheap,,,27/09/2026 03:19
 ec2e6cf5-ad95-4fb1-9ffe-f23329b1f35c,upturned.monster,available,1.5,21.98,medium,low,8,namecheap,,,04/09/2026 21:58
 2688eed6-7780-4278-839e-ed2b8797ac9d,slanting.monster,available,1.8,19.98,medium,low,8,namecheap,,,07/08/2026 04:20
-1aacd603-1aae-443e-aad8-d1bc708ac0a1,pennyroyal.monster,available,1.5,21.98,medium,low,10,namecheap,,,18/09/2026 20:31
+1aacd603-1aae-443e-aad8-d1bc708ac0a1,pennyroyal.monster,available,1.5,21.98,high,low,10,namecheap,,,18/09/2026 20:31
 30b5ecb9-eca3-4c33-bf2e-9d651e5e7035,antithesis.monster,available,1.5,21.98,medium,low,10,namecheap,,,19/09/2026 15:11
 e7cac18d-f829-4982-accb-cba93b15c85c,bolts.monster,available,1.99,17.29,medium,low,5,namesilo,,,18/09/2026 04:01
 1c53c14f-e6d4-4e08-b4ad-ccbbed24fce9,interlaced.monster,available,1.8,19.98,medium,low,10,namecheap,,,22/08/2026 08:04
@@ -592,11 +645,12 @@ f81c6a77-2437-4765-8b60-b1135190897c,lambent.monster,available,1.8,19.98,medium,
 39150cca-769f-4787-8814-97359a19f6b8,adelie.monster,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 07:17
 9077b685-493a-4b6f-b2d1-8e810768643f,changed.monster,available,1.8,19.98,high,low,7,namecheap,,,12/08/2026 01:53
 5c39cb13-e620-42f2-8d06-c9122d5147e4,eager.monster,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 12:48
-a57dbd8c-2274-40e4-9f26-c02563cf7bd8,surprises.monster,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 10:56
+a57dbd8c-2274-40e4-9f26-c02563cf7bd8,surprises.monster,available,1.99,17.29,high,low,9,namesilo,,,20/09/2026 10:56
 42c8308a-49c7-484e-a944-05c3f6dca5b0,rustle.monster,available,1.5,21.98,high,low,6,namecheap,,,13/09/2026 11:37
-125eaf2f-e222-44ec-8676-f32cbe930ec4,wexford.monster,available,1.99,17.29,medium,low,7,namesilo,,,28/09/2026 21:57
+125eaf2f-e222-44ec-8676-f32cbe930ec4,wexford.monster,available,1.99,17.29,high,low,7,namesilo,,,28/09/2026 21:57
 7b6cd27a-9bdb-46b1-8dca-232fe8339c5e,uncharged.monster,available,1.5,21.98,medium,low,9,namecheap,,,12/09/2026 05:06
 36cf2b95-7ff8-44bd-8c77-d4aaa253c804,fry.monster,available,1.8,19.98,high,low,3,namecheap,,,25/08/2026 00:16
+6342e858-af53-41f1-be65-8cb510a31026,teton.monster,available,0.99,25.99,high,low,5,godaddy,,,30/09/2026 02:07
 dd51558e-03f3-47d6-9221-f97021c4de71,judges.monster,available,1.18,13.97,medium,low,6,spaceship,,,29/09/2026 03:34
 e7bb7dac-7f39-4105-a3ad-f5a78f0483c2,thief.monster,available,1.99,,high,low,5,name.com,,,
 0ba979a2-6c78-4f96-bae6-d74b5effa5f1,tempt.monster,available,1.99,17.29,high,low,5,namesilo,,,18/09/2026 12:14
@@ -609,6 +663,7 @@ e55421ec-fe20-409e-883e-b6bdd0c3d0fa,detectable.monster,available,1.8,19.98,high
 61d9ae82-f89c-4716-848f-f825b74aebbf,arietta.monster,available,1.5,21.98,high,low,7,namecheap,,,20/09/2026 05:25
 c254df2c-ddf5-42da-9cb4-d515a5bd75bc,toffy.monster,available,1.8,19.98,medium,low,5,namecheap,,,11/08/2026 04:55
 70585917-665e-4106-94ab-942cdb19d9df,rotc.monster,available,1.18,13.97,medium,low,4,spaceship,,,29/09/2026 02:02
+677f3510-5e0a-48dd-aaa0-380a88762a35,dragonfly.monster,available,1.99,17.29,high,low,9,namesilo,,,30/09/2026 01:23
 fb2a0e41-fe68-4347-97d8-dc635ced7f4d,award.monster,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 06:31
 5b096cb2-54e9-4a2c-a4d5-d68da260b1dc,backbench.monster,available,1.99,17.29,high,low,9,namesilo,,,21/09/2026 15:00
 a2a138c7-fdc3-4c98-b9a1-4351f60024c9,zealand.monster,available,1.99,17.29,medium,low,7,namesilo,,,29/09/2026 02:11
@@ -622,8 +677,9 @@ e3b43196-4659-4517-84b2-0f006d510379,forked.monster,available,1.8,19.98,high,low
 48d1e287-1353-46ba-adab-e8fbcd236e69,asbestos.monster,available,1.99,17.29,high,low,8,namesilo,,,20/09/2026 12:54
 32c118d9-fc96-4178-ab4d-36d459da2719,zestful.monster,available,1.8,19.98,high,low,7,namecheap,,,08/08/2026 19:51
 cd55c5da-143b-448c-b8f4-cd071a40b49d,talebearer.monster,available,1.5,21.98,medium,low,10,namecheap,,,11/09/2026 10:34
-0c5eb903-4baa-4f4a-955c-a1b39ac63967,fallow.monster,available,1.8,19.98,medium,low,6,namecheap,,,17/08/2026 21:32
+0c5eb903-4baa-4f4a-955c-a1b39ac63967,fallow.monster,available,1.8,19.98,high,low,6,namecheap,,,17/08/2026 21:32
 80a45f8e-bb07-4f83-abfc-26f0c531b67d,avail.monster,available,1.99,17.29,high,low,5,namesilo,,,21/09/2026 08:37
+528a5d4c-a8af-4dad-876e-4c7d2178d08e,plots.monster,available,1.99,14.45,medium,low,5,dynadot,,,29/09/2026 17:24
 6d901814-9252-486f-8e22-80b2205ffb04,confidant.monster,available,1.8,19.98,high,low,9,namecheap,,,22/08/2026 08:30
 2d016fb3-6dc1-44ef-8505-5440d6eb90cb,isotopic.monster,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 11:26
 a2c5d315-e0d7-42ce-8daf-b55066072b1a,confronted.monster,available,1.5,21.98,low,low,10,namecheap,,,28/09/2026 23:23
@@ -636,19 +692,19 @@ f9fe6ec5-9aad-4114-8a18-227ccd5c3176,bema.monster,available,1.99,17.29,high,low,
 79a5b02b-89d1-46f5-aca4-5069e7dfb055,dionysian.monster,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 08:24
 d75ba335-4443-40db-a3c5-cd911bb04834,bobtail.monster,available,1.8,19.98,high,low,7,namecheap,,,10/08/2026 16:39
 0d18b3d4-eec1-460c-b105-ef2ae7c63518,ito.monster,available,12.3,10.2,medium,low,3,cloudflare,,,28/09/2026 08:05
-6c43970a-4d50-4d60-b75a-ea97e48d1823,azolla.monster,available,1.99,17.29,medium,low,6,namesilo,,,21/09/2026 11:19
+6c43970a-4d50-4d60-b75a-ea97e48d1823,azolla.monster,available,1.99,17.29,high,low,6,namesilo,,,21/09/2026 11:19
 e4b4b2a2-d86b-4764-8f68-73c3c26e9225,weinberg.monster,available,1.5,21.98,medium,low,8,namecheap,,,28/09/2026 10:58
 3648ea7c-06f8-40ea-8cbf-5fa454130b89,nate.monster,available,1.99,17.29,high,low,4,namesilo,,,25/09/2026 13:42
-d59e6953-88e4-4b3d-aa79-061c85f228c8,beardless.monster,available,1.8,19.98,medium,low,9,namecheap,,,09/08/2026 04:43
+d59e6953-88e4-4b3d-aa79-061c85f228c8,beardless.monster,available,1.8,19.98,high,low,9,namecheap,,,09/08/2026 04:43
 00875837-f8f7-48ca-b6ec-65e51b9ac1dc,affluence.monster,available,1.18,13.97,high,low,9,spaceship,,,28/09/2026 19:21
 3ab4abfc-ca42-45e0-bdc9-402e01443526,breasted.monster,available,1.8,19.98,medium,low,8,namecheap,,,11/08/2026 03:12
 23b1bcc8-f5a3-4ff4-84b1-6886134c9c5f,subtly.monster,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 07:33
-1b1d77fe-21ad-44ce-b1fa-043f8615d83f,alacritous.monster,available,1.8,19.98,medium,low,10,namecheap,,,
+1b1d77fe-21ad-44ce-b1fa-043f8615d83f,alacritous.monster,available,1.8,19.98,high,low,10,namecheap,,,
 ffa6caff-26d3-4bb1-b9f8-c6d9c1675a54,finer.monster,available,1.8,19.98,high,low,5,namecheap,,,18/08/2026 04:49
 ddd8ead0-0181-4c9d-890e-2208888fcef8,substance.monster,available,1.5,21.98,high,low,9,namecheap,,,14/09/2026 23:41
 1778f050-2a97-42ff-9d4c-09697297b4ab,numinous.monster,available,1.5,21.98,medium,low,8,namecheap,,,03/09/2026 23:01
 0cc38c9f-4ab1-41cd-aa17-b457f05bb036,acceptable.monster,available,1.99,17.29,high,low,10,namesilo,,,21/09/2026 15:23
-a2aad88a-b99d-4b37-be04-e6f6226da6b0,swain.monster,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 21:56
+a2aad88a-b99d-4b37-be04-e6f6226da6b0,swain.monster,available,1.99,17.29,high,low,5,namesilo,,,22/09/2026 21:56
 5c06c1e5-db30-4d3a-8df0-d0fe24f3bc54,shopworn.monster,available,1.8,19.98,medium,low,8,namecheap,,,08/08/2026 11:06
 354db415-9809-4d92-8f6e-8a6cb7501552,catechu.monster,available,1.5,21.98,medium,low,7,namecheap,,,16/09/2026 20:04
 474041df-64f3-41b5-9150-1633b6417267,fortuitous.monster,available,1.8,19.98,high,low,10,namecheap,,,18/08/2026 12:43
@@ -657,18 +713,21 @@ a2aad88a-b99d-4b37-be04-e6f6226da6b0,swain.monster,available,1.99,17.29,medium,l
 a0d7a581-bfc0-415c-aede-fbdf8ecb4071,loafer.monster,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 14:12
 6846a6ad-71c6-426d-a66d-5d184e52ca53,sing.monster,premium,242,14.28,high,low,4,namesilo,,,
 ae18a6d2-ef16-49ec-8aab-cdef55d55c0e,miners.monster,available,1.18,13.97,medium,low,6,spaceship,,,28/09/2026 18:17
+b11ca935-f67b-4b47-9ff2-d87c5ce81f7e,wyoming.monster,available,1.99,17.29,high,low,7,namesilo,,,29/09/2026 06:48
 33963343-8c29-4e03-be11-ce0a335323bd,bravery.monster,available,12.3,10.2,high,low,7,cloudflare,,,29/09/2026 04:02
-ad76e332-f206-4822-8cc7-27386aa58bc6,shapeless.monster,available,1.8,19.98,medium,low,9,namecheap,,,
+ad76e332-f206-4822-8cc7-27386aa58bc6,shapeless.monster,available,1.8,19.98,high,low,9,namecheap,,,
 d1f8af05-7c63-46c4-ab8a-bad6db56b2e3,diagnosis.monster,available,1.99,17.29,high,low,9,namesilo,,,24/09/2026 22:08
 e3103a05-ef55-4cbc-8ed5-669304f2c7ee,unemployed.monster,available,1.99,17.29,medium,low,10,namesilo,,,28/09/2026 09:51
 47bfbc4d-1c1e-459b-b346-97446716733c,napoleonic.monster,available,1.5,21.98,medium,low,10,namecheap,,,03/09/2026 13:00
 afbba899-3c73-446c-a0de-84580f39b578,tot.monster,available,1.99,17.29,high,low,3,namesilo,,,22/09/2026 00:39
 9f09fe96-196a-4b9a-b2d7-588020b8b8c8,crone.monster,available,1.99,17.29,medium,low,5,namesilo,,,23/09/2026 04:47
+f510fcfc-ac53-4543-ac86-9a18a70146a6,kirkwood.monster,available,1.18,13.97,high,low,8,spaceship,,,29/09/2026 10:55
 00fd20b5-6d97-4b77-8db5-d062b61d77ae,graciously.monster,available,1.5,21.98,high,low,10,namecheap,,,14/09/2026 21:58
 68d71354-3bc8-4472-91cd-f10d48ab3391,limpid.monster,available,1.8,19.98,high,low,6,namecheap,,,13/08/2026 09:41
 cdc15d70-0139-459a-974b-fc40657a932b,alienator.monster,available,1.99,17.29,medium,low,9,namesilo,,,18/09/2026 07:36
 eb1cb16e-0f4c-4ea2-a424-a684766ff974,caparison.monster,available,1.99,17.29,medium,low,9,namesilo,,,22/09/2026 05:11
 c9c61055-9d55-45a3-b464-3d77af55f2fc,cripple.monster,available,1.8,19.98,medium,low,7,namecheap,,,22/08/2026 18:58
+6de84b95-0d3d-4445-8d80-1a49cea49318,pianist.monster,available,1.5,21.98,high,low,7,namecheap,,,29/09/2026 13:41
 9f5e84a7-1297-4d4d-94a4-6fb5b2035a1e,behaviours.monster,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 22:06
 b704cc33-195f-4142-82e0-8295e1b6191d,shareholders.monster,available,1.99,17.29,medium,low,12,namesilo,,,17/09/2026 15:53
 41fb1d85-b8dd-4620-b4ae-ddc05368b275,pitching.monster,available,1.99,,high,low,8,name.com,,,
@@ -692,15 +751,16 @@ ec8a9012-5af5-4551-85d5-e8198e628665,paddlefish.monster,available,1.8,19.98,medi
 a1f5d5c6-5d1e-4707-a093-f9f49d48e0ae,kazan.monster,available,1.99,14.45,high,low,5,dynadot,,,28/09/2026 05:35
 fb7ef390-4641-4f53-9f6e-1458e6aa116e,demeanor.monster,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 21:47
 b500bbfb-bc65-4623-8ccf-67cb904fd5e7,customary.monster,available,1.99,20.99,high,low,9,name.com,,,13/08/2026 12:29
-397ffb9a-65e3-45e5-8002-8d65d55e02a0,willingly.monster,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 11:08
+397ffb9a-65e3-45e5-8002-8d65d55e02a0,willingly.monster,available,1.99,17.29,high,low,9,namesilo,,,16/09/2026 11:08
 d864f06d-b59a-43d5-9b08-f4f6d4cf9635,fanned.monster,available,1.8,19.98,high,low,6,namecheap,,,17/08/2026 22:09
 330828e9-37a9-4e59-844e-9cfb7ffb2095,slicker.monster,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 02:58
 8f2ca7b9-17a9-4c5d-9d62-efb12c0319b8,even.monster,available,1.99,17.29,high,medium,4,namesilo,,,19/09/2026 12:57
 5e239c9e-bbc8-42e6-85b2-5bdabb5efbe2,backed.monster,available,1.8,19.98,high,low,6,namecheap,,,08/08/2026 05:33
-889cb0e9-8b04-4e9e-a1fc-6c1751acde12,barman.monster,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 06:19
+889cb0e9-8b04-4e9e-a1fc-6c1751acde12,barman.monster,available,1.99,17.29,high,low,6,namesilo,,,22/09/2026 06:19
+05da3172-041b-4ddb-96f5-9756cb704de5,biol.monster,available,12.3,10.2,high,low,4,cloudflare,,,29/09/2026 16:48
 7a3e6c49-e71b-42d3-9d04-438e3a1dd68c,ivan.monster,resell,,,high,low,4,"Spaceship, Inc.",17/01/2026 16:16,17/01/2027 23:59,26/09/2026 06:58
 09fc6b14-daf9-4d26-993c-fccb7e2ffd89,melee.monster,available,1.99,17.29,high,low,5,namesilo,,,22/09/2026 16:23
-bb5a1d21-7482-4dc9-ba28-048f3f0fc1cd,corbin.monster,available,1.5,21.98,medium,low,6,namecheap,,,28/09/2026 07:42
+bb5a1d21-7482-4dc9-ba28-048f3f0fc1cd,corbin.monster,available,1.5,21.98,high,low,6,namecheap,,,28/09/2026 07:42
 d3f6db50-70f4-4177-9178-22883b4ce325,quantum.monster,resell,,,high,medium,7,,,,28/09/2026 15:10
 6870e7ca-ea96-4a25-a339-bfa9a4e056c8,notwithstanding.monster,available,1.99,,medium,low,15,name.com,,,
 1b3aa26c-54bf-4c2b-ab32-1073cf9c91f8,sere.monster,available,1.8,19.98,medium,low,4,namecheap,,,14/08/2026 19:03
@@ -717,13 +777,16 @@ ecf40748-afcd-4750-a7c8-fdb3994e3486,unsorted.monster,available,1.5,21.98,medium
 7e115064-311b-4da6-91bf-19a3e2d5e2b2,cissy.monster,available,1.8,19.98,medium,low,5,namecheap,,,12/08/2026 08:40
 b8635130-5ca2-4353-8315-a056eb490237,offense.monster,available,1.5,21.98,high,low,7,namecheap,,,04/09/2026 01:32
 99f41508-aa8c-4ff0-ac61-dfcfc96e6216,bedspread.monster,available,1.5,21.98,high,low,9,namecheap,,,22/09/2026 22:52
+dbd28d1b-69bc-4e92-bb4a-e4884e286e34,rooftop.monster,available,1.18,13.97,high,low,7,spaceship,,,29/09/2026 20:13
 cfd2df9b-1573-4dcc-9ed8-116a8044d037,thresher.monster,available,1.5,21.98,medium,low,8,namecheap,,,18/09/2026 13:23
+c5440d25-cff3-4e57-b490-478d45c8488b,orient.monster,available,1.99,17.29,high,medium,6,namesilo,,,29/09/2026 12:08
+2a3635a9-b928-486a-8d0c-c70ccd23bc8b,rufous.monster,available,1.18,13.97,high,low,6,spaceship,,,29/09/2026 22:57
 2010db29-15b1-47a1-bf95-f519f0c501e8,fighters.monster,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 05:05
 48225654-67bd-4bf4-aeeb-a3861fd59c7f,saccadic.monster,available,1.5,21.98,high,medium,8,namecheap,,,09/09/2026 20:35
 4760ba83-bc1c-40a2-935a-31153e4282ed,barish.monster,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 06:05
 b956169a-63ee-4462-b0de-8461d8e7230b,subscribed.monster,available,1.5,21.98,high,low,10,namecheap,,,11/09/2026 00:41
 3f7fe64e-569f-4d07-8a2f-56674e119bd8,researchers.monster,available,1.99,20.99,medium,low,11,name.com,,,18/09/2026 17:37
-f62758f5-cb9c-43ef-8351-6d2d8150eaf6,journalism.monster,available,1.99,,high,low,10,name.com,,,
+f62758f5-cb9c-43ef-8351-6d2d8150eaf6,journalism.monster,available,12.3,10.2,high,low,10,cloudflare,,,30/09/2026 00:56
 cdd6dd87-df7c-4880-bbbc-fa0439cc2955,saleable.monster,available,1.5,21.98,high,medium,8,namecheap,,,09/09/2026 20:51
 7069a314-ee8e-44d1-8da2-7e90a67e2917,chimp.monster,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 14:40
 7dc2afbe-65e8-4fd7-9d57-96682d24ed04,sumerian.monster,available,1.5,21.98,high,low,8,namecheap,,,11/09/2026 01:33
@@ -741,15 +804,16 @@ a9e61d49-c4dc-4f53-af11-8f4a1470225c,onymous.monster,available,1.5,21.98,medium,
 31ad3d19-21ed-4a6a-9144-3298c23f0ea7,vigorous.monster,available,1.5,21.98,high,low,8,namecheap,,,13/09/2026 05:44
 773e02f3-3856-468b-a943-f6e99d1667bc,adana.monster,available,1.5,21.98,medium,low,5,namecheap,,,17/09/2026 06:19
 0db07996-9775-43ef-be91-637fddc1ed0a,sheer.monster,available,1.99,17.29,high,low,5,namesilo,,,22/09/2026 23:12
-358783ba-d6fd-42cd-980c-2bd3e9dd4617,jugoslav.monster,available,1.5,21.98,medium,low,8,namecheap,,,13/09/2026 14:52
+52ab9f53-884c-4740-9a1b-1829e0c7e467,screws.monster,available,1.54,14.21,medium,low,6,porkbun,,,29/09/2026 17:35
+358783ba-d6fd-42cd-980c-2bd3e9dd4617,jugoslav.monster,available,1.5,21.98,high,low,8,namecheap,,,13/09/2026 14:52
 b6498ddb-6310-491a-8521-8ef286ab9c75,mothafucka.monster,available,1.99,,medium,low,10,name.com,,,
 b8afa354-4fdb-44d1-8d12-cc631ce27858,toughie.monster,available,1.5,21.98,high,medium,7,namecheap,,,09/09/2026 06:05
 c84c9104-d2c5-4bc0-b38a-e1884ad4a8f4,surmisable.monster,available,1.5,21.98,high,medium,10,namecheap,,,09/09/2026 01:47
 842875b6-5cd9-4a1c-9122-93fff8d42295,traceable.monster,available,1.5,21.98,high,low,9,namecheap,,,11/09/2026 18:33
 d38ecef6-ea75-4b99-963c-6490752ee598,uniting.monster,available,1.99,17.29,high,low,7,namesilo,,,18/09/2026 15:39
 c0a01f2c-5600-493e-ac90-42d56437ee36,unavowed.monster,available,1.5,21.98,high,medium,8,namecheap,,,10/09/2026 12:30
-cb11ab9c-f0d1-482d-84be-65ef663b249f,aquifer.monster,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 23:11
-ed07aa41-7541-4040-9c90-a2ed1d55c434,election.monster,available,1.99,15.75,high,low,8,namesilo,,,
+cb11ab9c-f0d1-482d-84be-65ef663b249f,aquifer.monster,available,1.99,17.29,high,low,7,namesilo,,,19/09/2026 23:11
+ed07aa41-7541-4040-9c90-a2ed1d55c434,election.monster,available,1.18,13.97,high,low,8,spaceship,,,29/09/2026 17:51
 98c4f3ed-8016-47c4-ac2d-29f2bee48e06,amidships.monster,available,1.8,19.98,medium,low,9,namecheap,,,
 3d4f69c4-41d9-4464-8ed0-64c64a508bf5,alcoves.monster,available,1.5,21.98,low,low,7,namecheap,,,20/09/2026 22:35
 01a76abc-60ac-44bd-8c6e-98b18064c565,ordinal.monster,available,1.5,21.98,high,low,7,namecheap,,,04/09/2026 17:44
@@ -758,13 +822,15 @@ f081fa39-4d99-4829-93a9-d447b73fcaeb,apache.monster,available,1.99,17.29,high,lo
 697515f1-a20c-40fe-b442-866f193c1bc8,mari.monster,available,0.99,25.99,high,low,4,godaddy,,,28/09/2026 01:39
 d58c5122-b016-4ab8-aade-373388f86a8e,coxa.monster,available,1.99,17.29,high,low,4,namesilo,,,20/09/2026 11:23
 8e962151-f594-4a53-8655-f6c759e4d762,debonnaire.monster,available,1.99,20.99,medium,low,10,name.com,,,13/08/2026 20:46
-57963be0-a642-4f4a-8d2f-921d1ec996b8,labelled.monster,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 17:15
+57963be0-a642-4f4a-8d2f-921d1ec996b8,labelled.monster,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 17:15
 661294f1-fc5e-415d-8793-9d0374d49f19,trig.monster,available,1.8,19.98,high,low,4,namecheap,,,12/08/2026 10:13
 63988650-d662-4924-ba64-c61e713bdb28,credendum.monster,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 11:13
 c84e2957-20b4-49d3-805e-e5fa6e65fd1e,peach.monster,available,1.8,19.98,high,low,5,namecheap,,,22/08/2026 16:45
+ee79e2f4-efb4-4207-ba91-9496626d7554,conditionally.monster,available,1.18,13.97,medium,low,13,spaceship,,,29/09/2026 14:42
 555045b4-3f0f-4908-90ac-f2fb83c7169c,sanious.monster,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 17:49
 e3fcf05c-be76-4708-a29b-e70bf52cc523,beaumont.monster,available,1.5,21.98,high,low,8,namecheap,,,22/09/2026 22:14
 0175e370-60cb-4cf3-b770-6ff025d488f5,kings.monster,resell,,,high,low,5,,,,27/09/2026 07:24
+d60a771d-3158-461d-b96f-cf5c82f7d9ae,identifying.monster,available,1.99,17.29,high,low,11,namesilo,,,29/09/2026 08:55
 365d6b33-0666-49cb-a72c-b692e6480eb2,yielding.monster,available,1.5,21.98,high,low,8,namecheap,,,13/09/2026 14:36
 27bac3b2-f433-4a85-8ee6-52555a0ba988,animated.monster,available,1.99,17.29,high,low,8,namesilo,,,22/09/2026 05:00
 4cfc4d97-0966-41fa-823b-1fabe5a90687,satisfy.monster,available,1.99,,high,low,7,name.com,,,
@@ -775,23 +841,25 @@ c9c0079c-c50d-43e3-b692-d3c35d7f659f,whipple.monster,available,12.3,10.2,medium,
 d5b87631-d2b5-4212-991e-2034497f52e2,biennial.monster,available,1.8,19.98,high,low,8,namecheap,,,09/08/2026 19:52
 105f2bbc-e9d2-4b3b-8414-69111a97dc97,joliet.monster,available,1.99,17.29,medium,low,6,namesilo,,,29/09/2026 01:26
 576dde13-571f-4dbf-905a-ed85fa20cb75,unlatched.monster,available,1.5,21.98,medium,low,9,namecheap,,,12/09/2026 01:38
-b4469785-fdd8-43c3-ada8-d70015be73d5,haiti.monster,available,,,high,high,5,,,,
+3dd188ee-c8d4-47fc-ab34-149d783ffab6,muzzle.monster,available,1.18,13.97,high,low,6,spaceship,,,29/09/2026 07:01
 d5481706-fecb-4c4e-bbda-3c3f1813107f,wizardly.monster,available,1.8,19.98,medium,low,8,namecheap,,,24/08/2026 13:02
 d2b63262-5201-4694-9546-616e943ae974,wheaton.monster,available,1.18,13.97,high,low,7,spaceship,,,28/09/2026 07:32
 c2461c1e-d199-42b2-aeef-53cb8e2e54cc,effeminate.monster,available,1.8,19.98,medium,low,10,namecheap,,,12/08/2026 08:34
 eb15e5ad-5ce0-4321-99bc-dddec3d296b7,office.monster,resell,,,high,medium,6,Porkbun LLC,24/12/2025 16:09,24/12/2026 23:59,28/09/2026 05:35
 89c241c0-b568-4161-8332-f42a14c39077,katharsis.monster,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 17:05
-19cb8f9d-e8a0-444a-a9e2-bb0b6cf2dc1e,permeable.monster,available,1.5,21.98,medium,low,9,namecheap,,,08/09/2026 17:36
+19cb8f9d-e8a0-444a-a9e2-bb0b6cf2dc1e,permeable.monster,available,1.5,21.98,high,low,9,namecheap,,,08/09/2026 17:36
+08192706-2a0f-4f96-9d35-ac7c6a7c3227,militia.monster,available,1.99,14.45,high,low,7,dynadot,,,29/09/2026 19:40
 89ca84a0-910f-4b5e-98db-7933a69a9f10,grassroots.monster,available,1.8,19.98,high,low,11,namecheap,,,20/08/2026 18:16
 ec658a8e-f116-4e4f-bfa5-f1e73a90cf1e,avidly.monster,available,1.5,21.98,medium,low,6,namecheap,,,13/09/2026 22:53
 e1da867e-3abc-41d1-ace7-698fbaa2559f,cavity.monster,available,1.18,13.97,medium,low,6,spaceship,,,28/09/2026 13:34
-d4267d77-d5ad-4f4d-a90d-efb7d1e8a32c,jamal.monster,available,1.5,21.98,medium,low,5,namecheap,,,29/09/2026 03:56
+d4267d77-d5ad-4f4d-a90d-efb7d1e8a32c,jamal.monster,available,1.5,21.98,high,low,5,namecheap,,,29/09/2026 03:56
 9c497374-9581-498e-b1dd-85a6a419802b,marlowe.monster,available,1.99,17.29,medium,low,7,namesilo,,,28/09/2026 18:43
 831f0552-ab85-4929-b01e-a3ad73c240e0,anechoic.monster,available,1.8,19.98,medium,low,8,namecheap,,,
 4adeeb4b-3e9b-45c8-a803-235ebbc5200b,inexplicit.monster,available,1.8,19.98,medium,low,10,namecheap,,,21/08/2026 22:39
 e95aaee3-f5ce-4e5c-99db-ca93fa7f3a3d,redevelopment.monster,available,1.5,21.98,medium,low,13,namecheap,,,28/09/2026 05:35
 c7dd12bf-65d7-41f4-9505-5f10284531c0,studs.monster,available,1.99,,high,low,5,name.com,,,
 2c021690-a60b-48cb-b537-904e3d2e5262,doped.monster,available,1.8,19.98,medium,low,5,namecheap,,,14/08/2026 15:59
+66204a8e-fcf4-4fa1-8dbd-5746ddf48e93,outsiders.monster,available,12.3,10.2,high,low,9,cloudflare,,,30/09/2026 00:41
 aa8e9b3d-6818-480c-acf6-2be0b53d4c0e,incoming.monster,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 01:44
 4f078bb8-95ca-4dce-8032-031035fd96c0,senegalese.monster,available,1.5,21.98,high,low,10,namecheap,,,10/09/2026 03:43
 0071cfe9-e0e5-46c5-9e08-ca78fe71c751,riotous.monster,available,1.99,20.99,medium,low,7,name.com,,,13/08/2026 20:26
@@ -805,6 +873,7 @@ c42393e7-10c0-426e-bdb4-e8b58adbc98c,bachelor.monster,available,1.18,13.97,high,
 dc4ac04b-75b9-4fdb-937b-1babf4c56c7c,shake.monster,available,1.5,21.98,high,low,5,namecheap,,,25/09/2026 06:52
 40d530e7-d0bf-4723-8f9b-a0cdf808a9d6,deliberate.monster,available,1.8,19.98,high,low,10,namecheap,,,11/08/2026 13:56
 9c0d1299-79ff-4dca-92c4-c8193826a382,geese.monster,available,1.99,15.75,medium,low,5,namesilo,,,
+21ea6b2a-79c7-4f78-9909-659b2d5b0d78,conceive.monster,available,1.99,14.45,high,low,8,dynadot,,,29/09/2026 14:04
 392b5e05-0f22-4c8d-b441-eb86995e57e2,detect.monster,available,1.5,21.98,high,low,6,namecheap,,,28/09/2026 06:30
 1bc1d6cf-b489-4bfe-9718-b6d011e814cf,stellar.monster,resell,1.99,,high,medium,7,Hosting Concepts B.V. d/b/a Registrar.eu,30/04/2026 19:13,30/04/2027 23:59,26/09/2026 09:18
 2121609b-446e-4da1-bafd-515bb01aa2c9,purely.monster,available,1.5,21.98,high,low,6,namecheap,,,15/09/2026 22:05
@@ -812,10 +881,11 @@ dc4ac04b-75b9-4fdb-937b-1babf4c56c7c,shake.monster,available,1.5,21.98,high,low,
 81bba32b-99df-4072-b46c-ba844daaf802,alderman.monster,available,1.99,17.29,medium,low,8,namesilo,,,18/09/2026 04:34
 8f0877ed-8c30-429e-b208-9a9ea0f10725,cloves.monster,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 13:15
 cac37afe-0b28-4da5-b17a-4b4caddce5c0,slightly.monster,available,1.5,21.98,medium,low,8,namecheap,,,16/09/2026 02:36
-ec93ed2c-ed41-4b98-90fb-0f46fe0e0abb,ably.monster,available,1.5,21.98,medium,low,4,namecheap,,,13/09/2026 16:20
+ec93ed2c-ed41-4b98-90fb-0f46fe0e0abb,ably.monster,available,1.5,21.98,high,low,4,namecheap,,,13/09/2026 16:20
 d33cd1f9-9c61-4c1e-b334-cbe951358e6d,reliably.monster,available,1.5,21.98,high,low,8,namecheap,,,14/09/2026 11:46
 7fa2641b-8eb5-48b0-8349-5f6c36e31c79,prepupal.monster,available,1.5,21.98,high,medium,8,namecheap,,,09/09/2026 01:41
 795ccbca-f4ec-4255-92fd-f52bd1aea2cb,parvenu.monster,available,1.5,21.98,medium,low,7,namecheap,,,03/09/2026 22:14
+044468f2-f64a-4509-81f2-53e97f4e6669,coating.monster,available,1.99,17.29,high,low,7,namesilo,,,30/09/2026 01:04
 db0f852b-4b36-4bab-9d19-1a7574c25929,housekeeper.monster,available,1.54,14.21,high,low,11,porkbun,,,28/09/2026 11:27
 4a82bdfe-ef62-496b-881a-f13d4d6b0dbd,malcontent.monster,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 09:23
 87c807ce-08da-448c-b692-d2c5cb11d3d5,sulphuric.monster,available,1.5,21.98,medium,low,9,namecheap,,,11/09/2026 01:27
@@ -827,8 +897,8 @@ b3298f74-90dd-4941-8dc6-64d8d7c0a124,nilsson.monster,available,1.5,21.98,high,lo
 9b97bb05-e801-4335-a6db-b5fa55a837d7,providing.monster,available,1.18,13.97,high,low,9,spaceship,,,28/09/2026 07:19
 6345ddc8-6b93-4b33-b11c-0561187a4182,lakh.monster,available,1.8,19.98,medium,low,4,namecheap,,,21/08/2026 15:36
 dead4558-bb24-47b0-9be4-be8d164307f6,ambiance.monster,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 16:40
-d11a5492-8ad3-47b0-afaa-6b869e5686fe,splendidly.monster,available,1.5,21.98,medium,low,10,namecheap,,,14/09/2026 16:44
-4c7309eb-bf14-45e6-8cde-62efe6c7f2fd,fragmental.monster,available,1.8,19.98,medium,low,10,namecheap,,,18/08/2026 14:01
+d11a5492-8ad3-47b0-afaa-6b869e5686fe,splendidly.monster,available,1.5,21.98,high,low,10,namecheap,,,14/09/2026 16:44
+4c7309eb-bf14-45e6-8cde-62efe6c7f2fd,fragmental.monster,available,1.8,19.98,high,low,10,namecheap,,,18/08/2026 14:01
 131670b5-c86a-450b-9016-55bb8c5e1566,digestible.monster,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 07:14
 0313fd9c-4fc9-401d-bfee-306ba5e62e66,late.monster,available,1.5,21.98,high,low,4,namecheap,,,22/09/2026 19:16
 5002fd6b-6fca-4150-84c2-0b7056617cce,picasso.monster,available,12.3,10.2,high,low,7,cloudflare,,,28/09/2026 20:04
@@ -837,12 +907,13 @@ d11a5492-8ad3-47b0-afaa-6b869e5686fe,splendidly.monster,available,1.5,21.98,medi
 e428307a-c740-44f6-87df-8db6539f3865,subclavian.monster,available,1.5,21.98,medium,low,10,namecheap,,,10/09/2026 23:40
 30140a6f-1bb3-4992-b5af-869ddba8889c,unalarming.monster,available,1.5,21.98,medium,low,10,namecheap,,,12/09/2026 00:14
 ddd5ffbb-0f19-4e89-8ac0-795b52baa36a,achondrite.monster,available,1.99,17.29,medium,low,10,namesilo,,,17/09/2026 00:54
-50dc8842-54bc-4b48-8281-886d435d2f18,witching.monster,available,1.5,21.98,medium,low,8,namecheap,,,13/09/2026 12:46
+50dc8842-54bc-4b48-8281-886d435d2f18,witching.monster,available,1.5,21.98,high,low,8,namecheap,,,13/09/2026 12:46
 164cf036-7273-47e8-a941-d17318feb590,fissile.monster,available,1.8,19.98,medium,low,7,namecheap,,,18/08/2026 05:34
 9f328cb5-8228-4abf-968d-be072b625cc5,accretive.monster,available,1.8,19.98,medium,low,9,namecheap,,,
 180cb74e-b42b-4c00-8d95-0dd34a41f402,adroit.monster,available,1.5,21.98,high,low,6,namecheap,,,21/09/2026 19:49
 9034314c-b440-408e-9179-cadbfe6b83b5,spells.monster,available,1.18,13.97,medium,low,6,spaceship,,,28/09/2026 08:59
 c40db892-fd11-4f8a-83d3-8674f9db8804,atomistic.monster,available,1.8,19.98,low,low,9,namecheap,,,07/08/2026 13:42
+3d9995c7-f8fe-484b-aa01-9e93776202d8,trolley.monster,available,1.18,13.97,high,low,7,spaceship,,,29/09/2026 14:00
 faf5dc16-9bb1-473a-877b-6f1c94ca834f,agential.monster,available,1.8,19.98,medium,low,8,namecheap,,,
 87d82892-1fa8-499f-9749-460838a117a8,notified.monster,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 05:08
 6a321d0c-1b05-4e80-b426-d5a439ca1fe5,langdon.monster,available,1.18,13.97,medium,low,7,spaceship,,,28/09/2026 16:35
@@ -855,13 +926,16 @@ c246aa84-e5be-45ba-8db7-880e1b7586ad,bandit.monster,available,1.99,17.29,high,lo
 01ca5f4e-6c80-42c4-9541-1a1c3a90b884,camisole.monster,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 11:52
 de9a4058-b21c-4251-9a95-f9b5fd598b83,focus.monster,resell,,,high,medium,5,Dynadot Inc,18/08/2026 11:13,18/08/2027 23:59,26/09/2026 06:10
 29379e0f-07aa-4e56-a4c6-f30ccb6b78f3,somerville.monster,available,1.99,17.29,medium,low,10,namesilo,,,27/09/2026 01:44
-e366b4ad-caf0-4e90-8127-0bbed925ef05,follower.monster,available,1.99,15.75,high,low,8,namesilo,,,
+5e50cd42-89ee-4327-889b-ac367e29b379,digestion.monster,available,1.99,17.29,high,low,9,namesilo,,,30/09/2026 01:19
+cabfb564-ef3d-449f-9804-5051c34562da,obedience.monster,available,1.18,13.97,high,low,9,spaceship,,,29/09/2026 13:35
+e366b4ad-caf0-4e90-8127-0bbed925ef05,follower.monster,available,1.99,17.29,high,low,8,namesilo,,,29/09/2026 19:39
 3a1626ec-d702-45e5-9234-6a630a659693,delivering.monster,available,12.3,10.2,high,low,10,cloudflare,,,28/09/2026 11:30
 50d85889-394c-4754-963f-5d332faa4bd8,antimony.monster,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 14:45
 d17abf3f-dd0d-406f-b1b8-324b31b9f59e,biretta.monster,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 10:06
 43a4a8e6-8258-4286-9d39-8815d5476017,tasteful.monster,available,1.5,21.98,high,low,8,namecheap,,,11/09/2026 09:00
-3aa88f9b-1648-4e27-bee0-15ac9a09dae4,commission.monster,available,1.99,15.75,high,low,10,namesilo,,,
+3aa88f9b-1648-4e27-bee0-15ac9a09dae4,commission.monster,available,1.99,17.29,high,low,10,namesilo,,,29/09/2026 10:22
 3e51f6e2-cab7-40a7-8772-9f0d135d2aaa,magicians.monster,available,1.5,21.98,medium,low,9,namecheap,,,20/09/2026 20:54
+6c4c1d05-275f-47d3-9bfb-5f951afedfe1,sneaking.monster,available,1.18,13.97,medium,low,8,spaceship,,,29/09/2026 14:54
 9ca2be57-5905-4d01-802b-0aa66950cd60,frontward.monster,available,1.8,19.98,medium,low,9,namecheap,,,18/08/2026 12:50
 f3d1a868-5ac5-4322-8a3c-0ab632aeb711,stunner.monster,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 16:40
 8df7dd42-a440-457a-aaa5-4c6c79b496f8,uniquely.monster,available,1.99,17.29,high,low,8,namesilo,,,16/09/2026 10:06
@@ -883,19 +957,22 @@ bc1033c8-8bd5-4165-9659-213b0d843d3b,harriet.monster,available,1.54,14.21,high,l
 a6e67c62-d0f4-490b-b142-8e5e11e6f7a2,mystifying.monster,available,1.8,19.98,medium,low,10,namecheap,,,13/08/2026 09:39
 2499ad7b-c43c-48a4-a7a0-e999b476e766,malamud.monster,available,1.5,21.98,medium,low,7,namecheap,,,23/09/2026 09:50
 f9ced289-b427-4f46-af91-6262f707f638,junoesque.monster,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 14:31
-fe1294c0-b0f8-4cef-8523-a304b082f13e,patched.monster,available,1.5,21.98,medium,low,7,namecheap,,,08/09/2026 10:18
+fe1294c0-b0f8-4cef-8523-a304b082f13e,patched.monster,available,1.5,21.98,high,low,7,namecheap,,,08/09/2026 10:18
 f7aa165f-5082-4d7c-a797-2bec07993083,colorless.monster,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 17:53
 f3d109c4-c226-4ef2-a880-d44c97c20cb9,proximo.monster,available,1.5,21.98,medium,low,7,namecheap,,,09/09/2026 04:40
 4d4324dd-7406-4af7-b1ca-9fc169e69b37,stoically.monster,available,1.5,21.98,medium,low,9,namecheap,,,16/09/2026 07:14
 0c06dfd9-1d46-45ac-bd44-66952bc283e1,punitive.monster,available,1.5,21.98,high,medium,8,namecheap,,,09/09/2026 06:02
+88c826e2-a043-4589-93f1-9758a0a331dd,gareth.monster,available,1.18,13.97,high,low,6,spaceship,,,29/09/2026 21:28
 5b51d66b-d6f1-4a96-91c3-6e34a8176de9,abnaki.monster,available,1.8,19.98,medium,low,6,namecheap,,,
 f9eeb781-22ae-47c8-9781-ea3fd3c4dcc7,bandmaster.monster,available,1.99,17.29,high,low,10,namesilo,,,22/09/2026 01:26
 68ccfa30-85a1-4178-9194-8e885f92e62c,environmentally.monster,available,1.99,15.75,medium,low,15,namesilo,,,
+c9b1dc15-fe43-42d3-8d19-0c114321058c,morgantown.monster,available,1.99,17.29,medium,low,10,namesilo,,,29/09/2026 19:41
 037d3890-412a-4001-a038-2482e10e588f,ambrose.monster,available,1.99,17.29,high,low,7,namesilo,,,18/09/2026 17:22
 368c79a6-0d78-4386-b36b-fab03ed6daf7,lenticular.monster,available,1.8,19.98,high,low,10,namecheap,,,09/08/2026 19:26
 13f858f8-b762-4c8a-ab3e-ad0740462553,polonium.monster,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 23:54
 bb5aa60d-3ba3-460d-9a4c-b45d6e91305d,wisely.monster,available,1.5,21.98,high,low,6,namecheap,,,16/09/2026 00:29
-2b7ed013-2b1a-4b69-aa87-52731d8d51a3,agitated.monster,available,1.8,19.98,medium,low,8,namecheap,,,
+d21a26cf-ee3b-47dc-82de-81cd9de5b92a,messing.monster,available,1.18,13.97,medium,low,7,spaceship,,,29/09/2026 22:01
+2b7ed013-2b1a-4b69-aa87-52731d8d51a3,agitated.monster,available,1.8,19.98,high,low,8,namecheap,,,
 4df0ef3e-192f-4dee-bcac-367eaa079ce3,lightness.monster,available,1.5,21.98,high,low,9,namecheap,,,17/09/2026 17:53
 239ddb3c-72c3-4044-a4e1-476cca6b31e8,sunderland.monster,available,1.99,17.29,high,low,10,namesilo,,,28/09/2026 03:08
 13b3e132-e9bf-4cc5-949d-71f7cd2d8580,unflawed.monster,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 07:21
@@ -918,84 +995,7 @@ efd68dbc-d28a-4e7a-bd9d-660bd320c135,timorous.monster,available,1.5,21.98,medium
 3d2ed387-5a7e-4ae0-a869-cb6d0ccf7b63,pity.monster,available,1.99,17.29,high,low,4,namesilo,,,23/09/2026 16:56
 d3d58a0b-3658-49f9-bfe0-30adbdbfdaa9,colton.monster,available,1.18,13.97,medium,low,6,spaceship,,,29/09/2026 00:04
 847cb456-3e45-4dd1-a1d2-e667a3be117b,hammered.monster,available,1.8,19.98,medium,low,8,namecheap,,,20/08/2026 22:59
+9011151d-7944-4f8f-bdc2-f604a5fcc360,booker.monster,available,1.99,17.29,high,low,6,namesilo,,,30/09/2026 00:51
 e0e3a489-1222-420a-bd5a-5108a89bb119,petallike.monster,available,1.5,21.98,medium,low,9,namecheap,,,08/09/2026 18:13
 136d6c0b-3dbd-4a49-b168-f6db74f06900,shelby.monster,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 15:30
 4183557e-0793-4553-854f-067986ee5112,carribean.monster,available,1.99,15.75,high,low,9,namesilo,,,
-6d0eaf23-a3c7-4cc7-b4b2-71942c7399f5,grungy.monster,available,1.8,19.98,low,low,6,namecheap,,,09/08/2026 09:36
-38aa3e59-8eeb-4240-b793-f5270f08c204,biblical.monster,available,1.99,17.29,medium,low,8,namesilo,,,24/09/2026 08:26
-7d01aec1-9459-4945-ad12-a40277d3fb6d,ayin.monster,available,1.99,17.29,high,low,4,namesilo,,,21/09/2026 10:38
-92c954c7-dc47-4987-970a-78e3343f09b5,symphonic.monster,available,1.5,21.98,high,low,9,namecheap,,,11/09/2026 06:07
-7a174ea4-f1c8-463d-b340-1ddd085b1545,sony.monster,available,,,high,medium,4,,,,
-e206dd94-2574-426b-a423-15be74c41717,brought.monster,available,1.99,15.75,medium,low,7,namesilo,,,
-f77cdbb6-e4cb-4549-bbd6-48d8b46ac5ba,armenian.monster,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 19:39
-6e2d8867-e70a-4ef1-abf7-2d4b5e3c8d6e,cfs.monster,available,1.99,17.29,high,low,3,namesilo,,,29/09/2026 03:24
-73c70705-3a7b-4e86-ae74-164f914bff67,kat.monster,available,1.5,21.98,high,low,3,namecheap,,,17/09/2026 15:23
-f332e2b4-862f-4928-ac66-ced29ab911b8,fernando.monster,available,1.99,17.29,high,low,8,namesilo,,,25/09/2026 14:20
-760982db-98db-4a16-a341-6fb1cd1fb14a,bertolucci.monster,available,1.99,17.29,high,low,10,namesilo,,,23/09/2026 09:50
-7420dfe8-e031-4ca7-b677-1b6aa16b574f,fondness.monster,available,1.5,21.98,high,low,8,namecheap,,,17/09/2026 14:17
-3cc2a418-5852-4fc0-bf78-e8d6f9835fd1,unable.monster,available,1.5,21.98,high,low,6,namecheap,,,11/09/2026 23:26
-33f507f7-fa6f-4bf4-bf7a-21faed0aabf3,blest.monster,available,1.8,19.98,medium,low,5,namecheap,,,10/08/2026 14:15
-03bd5995-58ab-426d-b517-a0118eba533d,barrie.monster,available,1.5,21.98,medium,low,6,namecheap,,,22/09/2026 08:37
-5320b636-0776-43d2-b75a-345943d29cf0,counts.monster,available,1.5,21.98,high,low,6,namecheap,,,18/09/2026 18:14
-37f7acbc-5d26-406e-a67b-7b496793ef44,foretell.monster,available,1.99,17.29,high,low,8,namesilo,,,21/09/2026 03:34
-26251e66-4860-4313-a271-4b8f7e8b89f3,brookings.monster,available,1.18,13.97,medium,low,9,spaceship,,,28/09/2026 16:41
-d29ec997-5452-4214-a75c-1b7f65fad659,crepuscule.monster,available,1.5,21.98,medium,low,10,namecheap,,,11/09/2026 21:48
-8c74463d-2aef-43bc-b1ba-f05d75caf5ac,sesame.monster,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 08:27
-acd8b9f0-c669-4621-a73f-65bb8a98a1ea,westminster.monster,available,1.99,,high,low,11,name.com,,,
-210fce34-bc90-4de5-b40a-35fcd393d358,toughened.monster,available,1.5,21.98,medium,low,9,namecheap,,,11/09/2026 10:54
-5b431afd-cb80-4f61-bd50-9b20051e406b,twinkling.monster,available,1.8,19.98,high,low,9,namecheap,,,22/08/2026 07:34
-7828d67a-2caa-48e6-bf9b-773409ae25b6,reasons.monster,available,1.5,21.98,medium,low,7,namecheap,,,25/09/2026 20:13
-b408d8c3-dfa4-48f5-a074-9019d227c43a,unsinkable.monster,available,1.5,21.98,medium,low,10,namecheap,,,12/09/2026 19:58
-e0f1f1b0-0d14-4254-bba1-3cb3dcc45bf8,conform.monster,available,1.99,15.75,high,low,7,namesilo,,,
-0ee154fc-666d-4033-9f85-e462907b6a56,baseboard.monster,available,1.99,17.29,medium,low,9,namesilo,,,22/09/2026 10:08
-35558f10-229f-41d5-8a07-23209e1f0104,cohen.monster,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 03:21
-836fc0e9-f0ff-4892-9791-7dcc8dce412b,reprobate.monster,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 02:38
-eeff9a70-933b-4dc1-bf11-53bf709d8c69,wong.monster,available,1.99,17.29,medium,low,4,namesilo,,,26/09/2026 03:13
-7d5a8ecb-48b8-41a2-935b-7c37f4677645,tutelary.monster,available,1.8,19.98,medium,low,8,namecheap,,,13/08/2026 12:21
-d07a0d37-efe6-44c9-863b-3497d6cace12,piffling.monster,available,1.8,19.98,low,low,8,namecheap,,,18/08/2026 03:35
-831e0340-bd6a-4118-a021-6b684f8c7466,unseeing.monster,available,1.5,21.98,high,medium,8,namecheap,,,10/09/2026 07:57
-819467c3-a78f-40e5-a71c-699be06554dc,astronomic.monster,available,1.8,19.98,medium,low,10,namecheap,,,07/08/2026 10:10
-32cce1de-321d-469e-b2ee-81c3240a65eb,continual.monster,available,1.99,17.29,high,low,9,namesilo,,,23/09/2026 22:10
-34c3b7b4-312f-435c-8f38-407d422bdf21,boozy.monster,available,1.8,19.98,medium,low,5,namecheap,,,09/08/2026 19:00
-237cbac2-49a9-47c1-b1cc-114a4844a5e8,freeborn.monster,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 14:53
-a056a87f-cd88-4aa0-8bb1-cb7c1ffbc619,fluky.monster,available,1.8,19.98,medium,low,5,namecheap,,,18/08/2026 09:19
-7425d8bc-d468-4749-97fe-01ea741d68e3,corporate.monster,resell,,,high,low,9,"Spaceship, Inc.",17/01/2026 16:01,17/01/2027 23:59,28/09/2026 04:27
-80324ce7-1927-4607-ba32-ca25ee0fc46a,baic.monster,available,1.5,21.98,medium,low,4,namecheap,,,21/09/2026 18:51
-f454d301-737b-45a8-b8ec-6c3976193080,unclothed.monster,available,1.5,21.98,medium,low,9,namecheap,,,12/09/2026 05:30
-30ad5b64-9b93-420b-8c74-c435729a7c40,dully.monster,available,1.5,21.98,low,low,5,namecheap,,,14/09/2026 14:43
-e31d2221-e8ef-49f7-8b0c-a707936c557d,gaol.monster,available,1.5,21.98,medium,low,4,namecheap,,,08/09/2026 22:46
-28a6b1f3-8d0b-4533-a17e-f9ade95859cc,delusive.monster,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 00:53
-5ae4a99c-62bb-4fb3-b8eb-1c44be1d63e0,bahreini.monster,available,1.8,19.98,medium,low,8,namecheap,,,08/08/2026 08:41
-f7758e83-4d8a-4e39-a3c4-964bd1c6079d,squeak.monster,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 15:54
-64e6a696-f91e-4270-92e5-3a147a17a4c9,delusional.monster,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 00:51
-042d3db4-4af6-4b0e-81dd-77fa67890b55,expression.monster,available,1.99,15.75,high,low,10,namesilo,,,
-a52c51f8-c484-44d9-80f2-912a41dc0d27,raid.monster,resell,,,high,low,4,,,,28/09/2026 09:48
-c5fd33f7-1684-4694-af1c-a75d1b430bbd,episode.monster,available,1.99,15.75,high,low,7,namesilo,,,
-55b73033-9b6f-4364-9688-dc5e647069b2,hawaiian.monster,available,1.8,19.98,high,low,8,namecheap,,,21/08/2026 01:36
-cacc987d-7184-4b8f-bf5b-307394382578,ends.monster,available,1.99,17.29,high,low,4,namesilo,,,25/09/2026 13:13
-26480925-55e5-4875-817a-7a9e506bcb90,positivist.monster,available,1.5,21.98,medium,low,10,namecheap,,,09/09/2026 00:12
-b0bbdee4-d8a3-4c76-8304-fb8b8586a6d0,grenoble.monster,available,1.18,13.97,medium,low,8,spaceship,,,28/09/2026 19:22
-5a34f952-7c32-431c-8cda-8dd4e1f52c47,spite.monster,available,1.99,17.29,high,low,5,namesilo,,,23/09/2026 22:22
-cb6f13f1-93a2-4a37-a017-f0a7cd320aa5,honestly.monster,available,1.8,19.98,high,low,8,namecheap,,,
-cd1aef8a-a1d1-41f9-9c6c-259927837232,pepperidge.monster,available,1.99,17.29,medium,low,10,namesilo,,,24/09/2026 00:49
-c41d55dd-e55f-4c55-b04d-26af53498afb,rockford.monster,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 15:41
-87bc51b7-6aae-4ce9-bee5-627efe274708,narratives.monster,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 10:13
-a0515c33-28c5-43c5-a6f3-2522162c2952,redstart.monster,available,1.5,21.98,high,low,8,namecheap,,,18/09/2026 20:37
-d993b550-093f-4314-9ba9-4d7f037e0b1b,lordship.monster,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 19:44
-82ea94d4-b83a-4a9c-838e-6915d9960229,airfield.monster,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 23:09
-78dc1329-9ba5-45c0-9095-cc3a3f0742ba,dollarfish.monster,available,1.5,21.98,medium,low,10,namecheap,,,20/09/2026 21:42
-6c9ba2b2-80ea-43ac-a7cd-633107473753,bedrest.monster,available,1.99,17.29,medium,low,7,namesilo,,,22/09/2026 23:03
-80bbe140-28b7-4a01-a923-2d206abc1d7e,flummox.monster,available,1.99,17.29,medium,low,7,namesilo,,,21/09/2026 17:31
-cd83f920-25f6-4f1c-93ec-b21a84454df7,suv.monster,available,1.99,,high,low,3,name.com,,,
-c05824ec-e9f1-4074-a260-67086a1a23a4,impersonal.monster,available,1.8,19.98,medium,low,10,namecheap,,,21/08/2026 22:13
-773c2f4e-c69e-406e-9e6a-1e83af9d0657,airspeed.monster,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 23:22
-d0fb7973-110d-4ddb-bb46-5fba1534152d,souther.monster,available,1.5,21.98,high,medium,7,namecheap,,,10/09/2026 14:54
-5ede1021-9294-404a-8ca6-58f767659d1c,toledo.monster,available,1.5,21.98,high,low,6,namecheap,,,28/09/2026 15:28
-bccf7a8b-f179-4d10-ba0d-a813860f1a68,newport.monster,available,1.54,14.21,high,low,7,porkbun,,,28/09/2026 02:29
-0a00c099-5e09-412e-ad50-d1bf5000efe4,arched.monster,available,1.8,19.98,medium,low,6,namecheap,,,06/08/2026 14:34
-4ad6244c-dc37-4762-a048-a748d8a9411b,dennis.monster,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 13:58
-bdc75492-8c77-401f-85b6-3fadb9c75f54,anosmic.monster,available,1.8,19.98,medium,low,7,namecheap,,,
-cfc47a1b-14de-4d40-8fe0-fc13e9e68600,arkansas.monster,available,1.99,17.29,high,low,8,namesilo,,,20/09/2026 06:13
-cd0bb33e-45a0-4ecb-81ab-c9b71aafba5c,tierce.monster,available,1.8,19.98,medium,low,6,namecheap,,,
-9038fd9c-91aa-4e29-b98b-390cf45fe3d5,genetical.monster,available,1.8,19.98,medium,low,9,namecheap,,,18/08/2026 21:37
-538ed3d5-199e-4a58-ab40-e36188a5cb04,physic.monster,available,1.99,17.29,medium,low,6,namesilo,,,28/09/2026 07:44
